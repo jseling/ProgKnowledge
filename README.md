@@ -4,7 +4,11 @@
 * https://martinfowler.com/bliki/AnemicDomainModel.html
 * https://blog.cleancoder.com/
 
-
+TDD
+* https://www.concrete.com.br/2011/10/17/falando-de-tdd/
+* https://buildplease.com/pages/tdd-feedback-100215/
+* https://www.thoughtworks.com/pt/insights/blog/evolution-of-tdd
+* http://www.growing-object-oriented-software.com/
 
 DESIGN PATTERNS
 - https://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html
