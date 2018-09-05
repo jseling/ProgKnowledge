@@ -10,6 +10,7 @@ TDD
 * https://www.thoughtworks.com/pt/insights/blog/evolution-of-tdd
 * http://www.growing-object-oriented-software.com/
 * https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern
+* http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html
 
 DESIGN PATTERNS
 * https://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html
