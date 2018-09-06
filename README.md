@@ -19,6 +19,7 @@
 - https://www.link-intersystems.com/blog/2011/10/01/anemic-vs-rich-domain-models/
 - https://martinfowler.com/bliki/AnemicDomainModel.html
 - https://www.quora.com/Is-it-true-that-a-good-programmer-uses-fewer-if-conditions-than-an-amateur
+- https://martinfowler.com/eaaDev/uiArchs.html
 
 ### Design
 - https://sourcemaking.com/design_patterns
