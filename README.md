@@ -1,7 +1,6 @@
 # ProgKnowledge
 
-- https://www.link-intersystems.com/blog/2011/10/01/anemic-vs-rich-domain-models/
-- https://martinfowler.com/bliki/AnemicDomainModel.html
+## Blogs & sites sources
 - https://blog.cleancoder.com/
 
 ## TDD
@@ -12,12 +11,18 @@
 - https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern
 - http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html
 
-## Design Patterns
+## Patterns
+
+### Architecture
+- https://www.link-intersystems.com/blog/2011/10/01/anemic-vs-rich-domain-models/
+- https://martinfowler.com/bliki/AnemicDomainModel.html
+
+### Design
+- https://sourcemaking.com/design_patterns
 - https://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html
 - https://www.lambda3.com.br/2009/04/o-que-sao-interfaces-fluentes/
 - https://www.devmedia.com.br/interfaces-fluentes-revista-net-magazine-95/24065
 - https://edermfl.wordpress.com/2016/01/05/interface-fluente-e-stepbuilders/
-- https://sourcemaking.com/design_patterns
 
 ## OData
 - http://www.odata.org/documentation/
