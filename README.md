@@ -2,14 +2,16 @@
 
 ## Blogs & sites sources
 - https://blog.cleancoder.com/
+- http://tdd.caelum.com.br/
+- http://www.growing-object-oriented-software.com/
 
 ## TDD
 - https://www.concrete.com.br/2011/10/17/falando-de-tdd/
 - https://buildplease.com/pages/tdd-feedback-100215/
 - https://www.thoughtworks.com/pt/insights/blog/evolution-of-tdd
-- http://www.growing-object-oriented-software.com/
 - https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern
 - http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html
+- http://blog.caelum.com.br/nao-faca-testes-faca-specs/
 
 ## Patterns
 
