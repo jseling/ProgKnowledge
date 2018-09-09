@@ -13,6 +13,9 @@
 - http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html
 - http://blog.caelum.com.br/nao-faca-testes-faca-specs/
 
+## SOLID
+- https://www.anglesandtypes.io/archives/169
+
 ## Patterns
 
 ### Architecture
