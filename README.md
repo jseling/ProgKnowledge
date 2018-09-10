@@ -5,6 +5,9 @@
 - http://tdd.caelum.com.br/
 - http://www.growing-object-oriented-software.com/
 
+## Linguagens
+- [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
+
 ## TDD
 - https://www.concrete.com.br/2011/10/17/falando-de-tdd/
 - https://buildplease.com/pages/tdd-feedback-100215/
