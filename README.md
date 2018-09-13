@@ -8,6 +8,7 @@
 ## Linguagens
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
 - http://awesome-br.com
+- https://usersnap.com/blog/programming-languages-2018/
 
 ## TDD
 - https://www.concrete.com.br/2011/10/17/falando-de-tdd/
