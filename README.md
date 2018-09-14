@@ -29,7 +29,7 @@
 - https://martinfowler.com/bliki/AnemicDomainModel.html
 - https://www.quora.com/Is-it-true-that-a-good-programmer-uses-fewer-if-conditions-than-an-amateur
 
-## GUI
+### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
 - https://pdfs.semanticscholar.org/1e22/dc6c0b5a5f2b64a91e28c68c6dd58f04d1bb.pdf
 - http://ceur-ws.org/Vol-610/paper11.pdf
@@ -41,6 +41,10 @@
 - https://www.lambda3.com.br/2009/04/o-que-sao-interfaces-fluentes/
 - https://www.devmedia.com.br/interfaces-fluentes-revista-net-magazine-95/24065
 - https://edermfl.wordpress.com/2016/01/05/interface-fluente-e-stepbuilders/
+
+## Livros
+- [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Código Limpo. Habilidades Práticas Do Agile Software](https://www.amazon.com.br/C%C3%B3digo-Limpo-Habilidades-Pr%C3%A1ticas-Software/dp/8576082675/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=8576082675&pd_rd_r=2513aadf-b815-11e8-940e-2fb2dccbe537&pd_rd_w=1yv3B&pd_rd_wg=SPJjG&pf_rd_i=desktop-dp-sims&pf_rd_m=A1ZZFT5FULY4LN&pf_rd_p=8f1717e5-6e62-42a9-8dff-5315a0fa89d7&pf_rd_r=MW8DN20FWB7JJ23R8ZHF&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=MW8DN20FWB7JJ23R8ZHF)
 
 ## OData
 - http://www.odata.org/documentation/
