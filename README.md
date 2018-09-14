@@ -45,6 +45,8 @@
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Código Limpo. Habilidades Práticas Do Agile Software](https://www.amazon.com.br/C%C3%B3digo-Limpo-Habilidades-Pr%C3%A1ticas-Software/dp/8576082675/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=8576082675&pd_rd_r=2513aadf-b815-11e8-940e-2fb2dccbe537&pd_rd_w=1yv3B&pd_rd_wg=SPJjG&pf_rd_i=desktop-dp-sims&pf_rd_m=A1ZZFT5FULY4LN&pf_rd_p=8f1717e5-6e62-42a9-8dff-5315a0fa89d7&pf_rd_r=MW8DN20FWB7JJ23R8ZHF&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=MW8DN20FWB7JJ23R8ZHF)
+- [Padrões de Projetos](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Erich-Gamma/dp/8573076100/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Use a Cabeça ! Padrões de Projetos](https://www.saraiva.com.br/use-a-cabeca-padroes-de-projetos-design-patterns-2-ed-revisada-1995765.html?pac_id=123134)
 
 ## OData
 - http://www.odata.org/documentation/
