@@ -35,6 +35,8 @@
 - http://ceur-ws.org/Vol-610/paper11.pdf
 - https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9
 - https://www.programcreek.com/2009/01/the-steps-involved-in-building-a-swing-gui-application/
+- https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
+- https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html#GUIBuider
 
 ### Design
 - https://sourcemaking.com/design_patterns
