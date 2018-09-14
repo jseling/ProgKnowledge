@@ -19,7 +19,8 @@
 - http://blog.caelum.com.br/nao-faca-testes-faca-specs/
 
 ## SOLID
-- https://www.anglesandtypes.io/archives/169
+- [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
+- [Writing SOLID Code: SRP](https://www.anglesandtypes.io/archives/174)
 
 ## Patterns
 
