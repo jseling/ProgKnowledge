@@ -34,6 +34,7 @@
 - https://pdfs.semanticscholar.org/1e22/dc6c0b5a5f2b64a91e28c68c6dd58f04d1bb.pdf
 - http://ceur-ws.org/Vol-610/paper11.pdf
 - https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9
+- https://www.programcreek.com/2009/01/the-steps-involved-in-building-a-swing-gui-application/
 
 ### Design
 - https://sourcemaking.com/design_patterns
