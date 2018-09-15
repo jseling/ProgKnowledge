@@ -10,6 +10,8 @@
 - http://awesome-br.com
 - https://usersnap.com/blog/programming-languages-2018/
 
+- https://pt.slideshare.net/AndrJusti/presentations
+
 ## TDD
 - https://www.concrete.com.br/2011/10/17/falando-de-tdd/
 - https://buildplease.com/pages/tdd-feedback-100215/
