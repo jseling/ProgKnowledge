@@ -72,3 +72,7 @@
 - https://www.englishexperts.com.br/forum/numeros-em-ingles-de-0-a-1-000-000-000-t1078.html
 - https://www.englishexperts.com.br/numeros-em-ingles-por-extenso/
 - https://www.englishexperts.com.br/wp-content/themes/master/tools/numeros-extenso/numbers.js
+
+
+## Parsers
+- http://www.ic.unicamp.br/~sandro/cursos/mc910/slides/
