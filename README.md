@@ -5,6 +5,8 @@
 - http://tdd.caelum.com.br/
 - http://www.growing-object-oriented-software.com/
 
+- https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
+
 ## Linguagens
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
 - http://awesome-br.com
