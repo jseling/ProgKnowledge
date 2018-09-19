@@ -32,7 +32,8 @@
 - https://www.link-intersystems.com/blog/2011/10/01/anemic-vs-rich-domain-models/
 - https://martinfowler.com/bliki/AnemicDomainModel.html
 - https://www.quora.com/Is-it-true-that-a-good-programmer-uses-fewer-if-conditions-than-an-amateur
-- [Fail Fast](https://www.yegor256.com/2015/08/25/fail-fast.html)
+- [Yegor - Fail Fast](https://www.yegor256.com/2015/08/25/fail-fast.html)
+- [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
 
 ### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
