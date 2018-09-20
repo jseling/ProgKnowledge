@@ -80,3 +80,6 @@
 
 ## Parsers
 - http://www.ic.unicamp.br/~sandro/cursos/mc910/slides/
+
+## Autenticação
+- [How We Solved Authentication and Authorization in Our Microservice Architecture](https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6)
