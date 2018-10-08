@@ -48,6 +48,7 @@
 
 ### Design
 - https://sourcemaking.com/design_patterns
+- https://stackoverflow.com/tags/design-patterns/info
 - https://www.yegor256.com/2016/02/03/design-patterns-and-anti-patterns.html
 - https://www.lambda3.com.br/2009/04/o-que-sao-interfaces-fluentes/
 - https://www.devmedia.com.br/interfaces-fluentes-revista-net-magazine-95/24065
