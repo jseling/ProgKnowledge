@@ -21,6 +21,7 @@
 - https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern
 - http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html
 - http://blog.caelum.com.br/nao-faca-testes-faca-specs/
+- http://aspiringcraftsman.com/2011/03/07/effective-tests-introduction/
 
 ## SOLID
 - [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
