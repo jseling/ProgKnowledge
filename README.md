@@ -30,6 +30,10 @@
 - [The 7 Sins of Unit Testing](https://blog.gurock.com/the-7-sins-of-unit-testing/)
 - [Testes Unitários 101: Mocks, Stubs, Spies e todas essas palavras difíceis](https://medium.com/trainingcenter/testes-unit%C3%A1rios-mocks-stubs-spies-e-todas-essas-palavras-dif%C3%ADceis-f2765ac87cc8)
 - [Técnica mock em testes unitários](http://www.nessauepa.com.br/blog/2010/08/tecnica-mock-em-testes-unitarios/)
+- [How writing tests can make you a faster and more productive developer](https://medium.freecodecamp.org/how-writing-tests-can-make-you-a-faster-and-more-productive-developer-f3ad978e3872)
+- [Write tests. Not too many. Mostly integration.](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
+
+- [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
 
 ### TDD DB
 - [Teste Unitário Camada de persistência](http://www.guj.com.br/t/teste-unitario-camada-de-persistencia/277246/7)
