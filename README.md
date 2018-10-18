@@ -26,6 +26,7 @@
 - [The Pragmatics of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)
 - [The Cycles of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 - [Giving Up on TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html)
+- [4 Outside-in Signs That You Don’t Have Sufficient Unit Testing](https://blog.gurock.com/sufficient-unit-testing/)
 
 ## SOLID
 - [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
