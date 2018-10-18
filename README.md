@@ -4,6 +4,7 @@
 - https://blog.cleancoder.com/
 - http://tdd.caelum.com.br/
 - http://www.growing-object-oriented-software.com/
+- http://blog.ploeh.dk/archive/
 
 - https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
 
