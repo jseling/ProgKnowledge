@@ -29,12 +29,14 @@
 - [4 Outside-in Signs That You Don’t Have Sufficient Unit Testing](https://blog.gurock.com/sufficient-unit-testing/)
 - [The 7 Sins of Unit Testing](https://blog.gurock.com/the-7-sins-of-unit-testing/)
 - [Testes Unitários 101: Mocks, Stubs, Spies e todas essas palavras difíceis](https://medium.com/trainingcenter/testes-unit%C3%A1rios-mocks-stubs-spies-e-todas-essas-palavras-dif%C3%ADceis-f2765ac87cc8)
+- [Técnica mock em testes unitários](http://www.nessauepa.com.br/blog/2010/08/tecnica-mock-em-testes-unitarios/)
 
 ### TDD DB
 - [Teste Unitário Camada de persistência](http://www.guj.com.br/t/teste-unitario-camada-de-persistencia/277246/7)
 - [Técnicas para realizar testes unitários em CRUD](http://www.guj.com.br/t/tecnicas-para-realizar-testes-unitarios/220780/10)
+- [Testes de Integração: Validando ainda mais sua aplicação](https://yuriadamsmaia.wordpress.com/2011/08/09/testes-de-integracao-validando-ainda-mais-sua-aplicacao-pa/)
 
-
+- http://www.univale.com.br/unisite/mundo-j/artigos/23Testes.pdf
 
 ## SOLID
 - [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
