@@ -23,6 +23,9 @@
 - http://blog.caelum.com.br/nao-faca-testes-faca-specs/
 - http://aspiringcraftsman.com/2011/03/07/effective-tests-introduction/
 - http://codebetter.com/jeremymiller/2007/05/23/build-your-own-cab-part-2-the-humble-dialog-box/
+- [The Pragmatics of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)
+- [The Cycles of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+- [Giving Up on TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html)
 
 ## SOLID
 - [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
@@ -38,6 +41,8 @@
 - https://www.quora.com/Is-it-true-that-a-good-programmer-uses-fewer-if-conditions-than-an-amateur
 - [Yegor - Fail Fast](https://www.yegor256.com/2015/08/25/fail-fast.html)
 - [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
+- [The Clean Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Clean Micro-service Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
 
 ### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
