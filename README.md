@@ -36,6 +36,12 @@
 
 - [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
 
+### TDD Humble Object
+- [What is a Humble Object and how does it help make your code testable?](https://codeutopia.net/blog/2016/04/09/what-is-a-humble-object-and-how-does-it-help-make-your-code-testable/)
+- [TDD Patterns: Humble Object](https://ieftimov.com/tdd-humble-object)
+- [Humble Object](http://xunitpatterns.com/Humble%20Object.html)
+- [Patrón "Humble Object"](https://geeks.ms/jlao/2016/01/12/patron-humble-object/)
+
 ### TDD DB
 - [Teste Unitário Camada de persistência](http://www.guj.com.br/t/teste-unitario-camada-de-persistencia/277246/7)
 - [Técnicas para realizar testes unitários em CRUD](http://www.guj.com.br/t/tecnicas-para-realizar-testes-unitarios/220780/10)
