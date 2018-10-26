@@ -5,6 +5,7 @@
 - http://tdd.caelum.com.br/
 - http://www.growing-object-oriented-software.com/
 - http://blog.ploeh.dk/archive/
+- [Guia de Desenvolvimento Técnico - ThoughtWorks Brasil](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/)
 
 - https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
 
