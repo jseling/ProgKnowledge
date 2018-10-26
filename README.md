@@ -23,7 +23,6 @@
 - http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html
 - http://blog.caelum.com.br/nao-faca-testes-faca-specs/
 - http://aspiringcraftsman.com/2011/03/07/effective-tests-introduction/
-- http://codebetter.com/jeremymiller/2007/05/23/build-your-own-cab-part-2-the-humble-dialog-box/
 - [The Pragmatics of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)
 - [The Cycles of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 - [Giving Up on TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html)
@@ -38,6 +37,7 @@
 
 ### TDD Humble Object
 - [What is a Humble Object and how does it help make your code testable?](https://codeutopia.net/blog/2016/04/09/what-is-a-humble-object-and-how-does-it-help-make-your-code-testable/)
+- [Build your own CAB Part #2 – The Humble Dialog Box](http://codebetter.com/jeremymiller/2007/05/23/build-your-own-cab-part-2-the-humble-dialog-box/)
 - [TDD Patterns: Humble Object](https://ieftimov.com/tdd-humble-object)
 - [Humble Object](http://xunitpatterns.com/Humble%20Object.html)
 - [Patrón "Humble Object"](https://geeks.ms/jlao/2016/01/12/patron-humble-object/)
