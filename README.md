@@ -36,6 +36,7 @@
 - [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
 
 ### TDD Humble Object
+- [A Simple Example of the "Humble Dialog Box"](http://codebetter.com/jeremymiller/2005/07/20/a-simple-example-of-the-humble-dialog-box/)
 - [What is a Humble Object and how does it help make your code testable?](https://codeutopia.net/blog/2016/04/09/what-is-a-humble-object-and-how-does-it-help-make-your-code-testable/)
 - [Build your own CAB Part #2 – The Humble Dialog Box](http://codebetter.com/jeremymiller/2007/05/23/build-your-own-cab-part-2-the-humble-dialog-box/)
 - [TDD Patterns: Humble Object](https://ieftimov.com/tdd-humble-object)
