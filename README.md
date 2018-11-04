@@ -56,6 +56,7 @@
 - [Writing SOLID Code: SRP](https://www.anglesandtypes.io/archives/174)
 - [Writing SOLID Code: OCP](https://www.anglesandtypes.io/archives/177)
 - [Writing SOLID Code: LSP](https://www.anglesandtypes.io/archives/183)
+- [Writing SOLID Code: ISP](https://www.anglesandtypes.io/archives/196)
 
 ## Patterns
 
