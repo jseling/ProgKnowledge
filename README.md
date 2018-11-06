@@ -88,6 +88,7 @@
 - https://edermfl.wordpress.com/2016/01/05/interface-fluente-e-stepbuilders/
 
 ### Programação
+- [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
 - [Why shouldn't I use “Hungarian Notation”? - StackOverflow](https://stackoverflow.com/questions/111933/why-shouldnt-i-use-hungarian-notation)
 
 ## Opiniões
