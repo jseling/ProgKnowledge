@@ -34,6 +34,9 @@
 - [How writing tests can make you a faster and more productive developer](https://medium.freecodecamp.org/how-writing-tests-can-make-you-a-faster-and-more-productive-developer-f3ad978e3872)
 - [Write tests. Not too many. Mostly integration.](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
 
+http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/
+https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422
+
 - [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
 
 ### TDD Humble Object
