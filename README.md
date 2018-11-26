@@ -60,6 +60,7 @@ https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422
 - [Writing SOLID Code: OCP](https://www.anglesandtypes.io/archives/177)
 - [Writing SOLID Code: LSP](https://www.anglesandtypes.io/archives/183)
 - [Writing SOLID Code: ISP](https://www.anglesandtypes.io/archives/196)
+- [Writing SOLID Code: DIP](https://www.anglesandtypes.io/archives/221)
 
 ## Patterns
 
