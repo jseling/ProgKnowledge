@@ -90,6 +90,7 @@ https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422
 - https://www.lambda3.com.br/2009/04/o-que-sao-interfaces-fluentes/
 - https://www.devmedia.com.br/interfaces-fluentes-revista-net-magazine-95/24065
 - https://edermfl.wordpress.com/2016/01/05/interface-fluente-e-stepbuilders/
+- https://dzone.com/refcardz/design-patterns?chapter=1
 
 ### Programação
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
