@@ -62,6 +62,8 @@ https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422
 - [Writing SOLID Code: ISP](https://www.anglesandtypes.io/archives/196)
 - [Writing SOLID Code: DIP](https://www.anglesandtypes.io/archives/221)
 
+- [Dependency Injection Is NOT The Same As The Dependency Inversion Principle](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
+
 ## Patterns
 
 ### Architecture
