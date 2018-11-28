@@ -18,6 +18,7 @@
 
 ## TDD
 - https://www.concrete.com.br/2011/10/17/falando-de-tdd/
+- [Yegor - The TDD That Works for Me](https://www.yegor256.com/2017/03/24/tdd-that-works.html)
 - https://buildplease.com/pages/tdd-feedback-100215/
 - https://www.thoughtworks.com/pt/insights/blog/evolution-of-tdd
 - https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern
