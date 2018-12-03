@@ -134,3 +134,6 @@ https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422
 
 ## Autenticação
 - [How We Solved Authentication and Authorization in Our Microservice Architecture](https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6)
+
+## IDE
+- [Hoje irei apresentar o VS Code](https://medium.com/@programadriano/hoje-irei-apresentar-o-vs-code-visual-studio-code-para-quem-ainda-n%C3%A3o-teve-contato-com-ele-6a0d6bd3baec)
