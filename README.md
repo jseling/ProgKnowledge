@@ -39,6 +39,7 @@ http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/
 https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422
 
 - [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
+- [4 Properties of Highly Testable Code](https://blog.gurock.com/highly-testable-code/)
 
 ### TDD Humble Object
 - [A Simple Example of the "Humble Dialog Box"](http://codebetter.com/jeremymiller/2005/07/20/a-simple-example-of-the-humble-dialog-box/)
