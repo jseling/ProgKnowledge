@@ -17,14 +17,14 @@
 - https://pt.slideshare.net/AndrJusti/presentations
 
 ## TDD
-- https://www.concrete.com.br/2011/10/17/falando-de-tdd/
+- [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
 - [Yegor - The TDD That Works for Me](https://www.yegor256.com/2017/03/24/tdd-that-works.html)
-- https://buildplease.com/pages/tdd-feedback-100215/
-- https://www.thoughtworks.com/pt/insights/blog/evolution-of-tdd
-- https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern
-- http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html
-- http://blog.caelum.com.br/nao-faca-testes-faca-specs/
-- http://aspiringcraftsman.com/2011/03/07/effective-tests-introduction/
+- [Using TDD to Break Through 'Paralysis by Analysis'](https://buildplease.com/pages/tdd-feedback-100215/)
+- [The Evolution of TDD](https://www.thoughtworks.com/pt/insights/blog/evolution-of-tdd)
+- [Introducing the Software Testing Cupcake (Anti-Pattern)](https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern)
+- [TDD Lesson - Terrain Generation](http://blog.cleancoder.com/uncle-bob/2017/01/09/DiamondSquare.html)
+- [Não faça testes, faça specs!](http://blog.caelum.com.br/nao-faca-testes-faca-specs/)
+- [Effective Tests: Introduction](http://aspiringcraftsman.com/2011/03/07/effective-tests-introduction/)
 - [The Pragmatics of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html)
 - [The Cycles of TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 - [Giving Up on TDD - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html)
@@ -34,10 +34,8 @@
 - [Técnica mock em testes unitários](http://www.nessauepa.com.br/blog/2010/08/tecnica-mock-em-testes-unitarios/)
 - [How writing tests can make you a faster and more productive developer](https://medium.freecodecamp.org/how-writing-tests-can-make-you-a-faster-and-more-productive-developer-f3ad978e3872)
 - [Write tests. Not too many. Mostly integration.](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
-
 - [What to test and not to test](http://blog.ploeh.dk/2018/11/12/what-to-test-and-not-to-test/)
 - [TDD — A New Transformation](https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422)
-
 - [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
 - [4 Properties of Highly Testable Code](https://blog.gurock.com/highly-testable-code/)
 
