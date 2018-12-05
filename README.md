@@ -97,6 +97,7 @@
 ### Programação
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
 - [Why shouldn't I use “Hungarian Notation”? - StackOverflow](https://stackoverflow.com/questions/111933/why-shouldnt-i-use-hungarian-notation)
+- [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
