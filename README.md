@@ -5,8 +5,8 @@
 - http://tdd.caelum.com.br/
 - http://www.growing-object-oriented-software.com/
 - http://blog.ploeh.dk/archive/
+- [Blog TDD: Geepaw Hill](http://geepawhill.org/blog/)
 - [Guia de Desenvolvimento Técnico - ThoughtWorks Brasil](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/)
-
 - https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
 
 ## Linguagens
@@ -38,6 +38,7 @@
 - [TDD — A New Transformation](https://cloudnative.ly/tdd-a-new-transformation-bb61bdee8422)
 - [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
 - [4 Properties of Highly Testable Code](https://blog.gurock.com/highly-testable-code/)
+- [Underplayed Premises of TDD: Q&A with GeePaw Hill](https://www.infoq.com/news/2018/11/premises-tdd?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
 
 ### TDD Humble Object
 - [A Simple Example of the "Humble Dialog Box"](http://codebetter.com/jeremymiller/2005/07/20/a-simple-example-of-the-humble-dialog-box/)
