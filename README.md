@@ -76,6 +76,7 @@
 - [The Clean Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Clean Micro-service Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
 - [Immutable Data](http://kevinmahoney.co.uk/articles/immutable-data/)
+- [How can you do anything useful without mutable state?](https://stackoverflow.com/questions/1020653/how-can-you-do-anything-useful-without-mutable-state)
 
 ### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
