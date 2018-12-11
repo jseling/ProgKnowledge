@@ -41,7 +41,8 @@
 - [Underplayed Premises of TDD: Q&A with GeePaw Hill](https://www.infoq.com/news/2018/11/premises-tdd?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
 
 ### TDD Humble Object
-Uma view serve apenas para mostrar informações ao usuário e/ou receber instruções deste. Input/Output, nada de processamento. Todo processamento/lógica que interage com a view deve ficar em classes separadas, a interação entre estes deve ser através de parâmetros em funções tipo "CarregarUsuarios(AUsuarioView)", assim esse objeto poderá ser testado através de um mock da view "CarregarUsuario(AUsuarioViewMock)". Essa view desacoplada do processamento/lógica é chamada de "Humble dialog" no padrão humble objeto. Este padrão é basicamente o uso do SRP do SOLID após ser devidamente esclarecida a responsabilidade da view (input/output com o usuário).
+Uma view serve apenas para mostrar informações ao usuário e/ou receber instruções deste. Input/Output, nada de processamento. Todo processamento/lógica que interage com a view deve ficar em classes separadas, a interação entre estes deve ser através de parâmetros em funções tipo "CarregarUsuarios(AUsuarioView)", assim esse objeto poderá ser testado através de um mock da view "CarregarUsuario(AUsuarioViewMock)". Essa view desacoplada do processamento/lógica é chamada de "Humble dialog" no padrão humble objeto. * Este padrão é basicamente o uso do SRP do SOLID após ser devidamente esclarecida a responsabilidade da view (input/output com o usuário)?
+* O MVC poderia fazer isso também?
 
 - [A Simple Example of the "Humble Dialog Box"](http://codebetter.com/jeremymiller/2005/07/20/a-simple-example-of-the-humble-dialog-box/)
 - [What is a Humble Object and how does it help make your code testable?](https://codeutopia.net/blog/2016/04/09/what-is-a-humble-object-and-how-does-it-help-make-your-code-testable/)
