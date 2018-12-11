@@ -41,6 +41,8 @@
 - [Underplayed Premises of TDD: Q&A with GeePaw Hill](https://www.infoq.com/news/2018/11/premises-tdd?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
 
 ### TDD Humble Object
+Uma view serve apenas para mostrar informações ao usuário e/ou receber intruções deste. Intup/Output, nada de processamento.
+
 - [A Simple Example of the "Humble Dialog Box"](http://codebetter.com/jeremymiller/2005/07/20/a-simple-example-of-the-humble-dialog-box/)
 - [What is a Humble Object and how does it help make your code testable?](https://codeutopia.net/blog/2016/04/09/what-is-a-humble-object-and-how-does-it-help-make-your-code-testable/)
 - [Build your own CAB Part #2 – The Humble Dialog Box](http://codebetter.com/jeremymiller/2007/05/23/build-your-own-cab-part-2-the-humble-dialog-box/)
