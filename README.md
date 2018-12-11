@@ -64,7 +64,6 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Writing SOLID Code: LSP](https://www.anglesandtypes.io/archives/183)
 - [Writing SOLID Code: ISP](https://www.anglesandtypes.io/archives/196)
 - [Writing SOLID Code: DIP](https://www.anglesandtypes.io/archives/221)
-
 - [Dependency Injection Is NOT The Same As The Dependency Inversion Principle](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
 
 ## Patterns
