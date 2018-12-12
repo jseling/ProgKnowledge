@@ -40,6 +40,8 @@
 - [Testing In Production Isn’t a Sin Anymore](https://blog.gurock.com/testing-in-production/)
 - [4 Properties of Highly Testable Code](https://blog.gurock.com/highly-testable-code/)
 - [Underplayed Premises of TDD: Q&A with GeePaw Hill](https://www.infoq.com/news/2018/11/premises-tdd?utm_source=twitter&utm_medium=link&utm_campaign=calendar)
+- [Premature Passes: Why You Might Be Getting Green on Red](http://agileinaflash.blogspot.com/2012/07/premature-passes-why-you-might-be.html)
+- [Seven Steps to Great Unit Test Names](http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-test-names.html)
 
 ### TDD Humble Object
 Uma view serve apenas para mostrar informações ao usuário e/ou receber instruções deste. Input/Output, nada de processamento. Todo processamento/lógica que interage com a view deve ficar em classes separadas, a interação entre estes deve ser através de parâmetros em funções tipo "CarregarUsuarios(AUsuarioView)", assim esse objeto poderá ser testado através de um mock da view "CarregarUsuario(AUsuarioViewMock)". Essa view desacoplada do processamento/lógica é chamada de "Humble dialog" no padrão humble objeto. 
