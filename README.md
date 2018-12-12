@@ -19,6 +19,7 @@
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
 - [Yegor - The TDD That Works for Me](https://www.yegor256.com/2017/03/24/tdd-that-works.html)
+- [Unit Testing Anti-Patterns, Full List](https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html)
 - [Using TDD to Break Through 'Paralysis by Analysis'](https://buildplease.com/pages/tdd-feedback-100215/)
 - [The Evolution of TDD](https://www.thoughtworks.com/pt/insights/blog/evolution-of-tdd)
 - [Introducing the Software Testing Cupcake (Anti-Pattern)](https://www.thoughtworks.com/pt/insights/blog/introducing-software-testing-cupcake-anti-pattern)
