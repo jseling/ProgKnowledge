@@ -115,6 +115,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
 - [Enthusiasts vs. Pragmatists: two types of programmers and how they fail](https://codewithoutrules.com/2018/11/12/enthusiasts-vs-pragmatists/)
+- [Why bad software architecture is easy to monetize](http://tojans.me/blog/2014/02/17/why-bad-software-architecture-is-easy-to-monetize/)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
