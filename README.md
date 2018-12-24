@@ -161,3 +161,6 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## IDE
 - [Hoje irei apresentar o VS Code](https://medium.com/@programadriano/hoje-irei-apresentar-o-vs-code-visual-studio-code-para-quem-ainda-n%C3%A3o-teve-contato-com-ele-6a0d6bd3baec)
+
+## Neural Nets
+- [Neural Network Woes](https://en.reddit.com/r/ProgrammerHumor/comments/a8xe9w/neural_network_woes/?st=jq2d92md&sh=d76f4b13)
