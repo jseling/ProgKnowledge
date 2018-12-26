@@ -167,3 +167,6 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
+
+## Performance
+- [Challenge your performance intuition with C++ operators](http://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_operators.html)
