@@ -78,6 +78,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Writing SOLID Code: ISP](https://www.anglesandtypes.io/archives/196)
 - [Writing SOLID Code: DIP](https://www.anglesandtypes.io/archives/221)
 - [Dependency Injection Is NOT The Same As The Dependency Inversion Principle](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
+- [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
 ## Patterns
 
@@ -168,6 +169,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
+- [Top 50 Algorithms and Coding Interview Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 ## Performance
 - [Challenge your performance intuition with C++ operators](http://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_operators.html)
