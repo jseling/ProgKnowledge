@@ -23,6 +23,9 @@
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
 - [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
 
+## Conceitos
+- [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
+
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
 - [Yegor - The TDD That Works for Me](https://www.yegor256.com/2017/03/24/tdd-that-works.html)
