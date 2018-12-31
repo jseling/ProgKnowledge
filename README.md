@@ -92,6 +92,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Clean Micro-service Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
 - [Immutable Data](http://kevinmahoney.co.uk/articles/immutable-data/)
 - [How can you do anything useful without mutable state?](https://stackoverflow.com/questions/1020653/how-can-you-do-anything-useful-without-mutable-state)
+- [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 
 ### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
