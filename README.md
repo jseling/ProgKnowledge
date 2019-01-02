@@ -84,6 +84,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Dependency Injection Is NOT The Same As The Dependency Inversion Principle](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
 - [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
+## FIRST
+- [FIRST Concept](https://addyosmani.com/first/)
+
 ## Patterns
 
 ### Architecture
