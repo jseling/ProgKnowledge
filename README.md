@@ -122,6 +122,12 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://edermfl.wordpress.com/2016/01/05/interface-fluente-e-stepbuilders/
 - https://dzone.com/refcardz/design-patterns?chapter=1
 
+#### Singleton
+- [Design Patterns — A quick guide to Singleton pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-singleton-pattern-60732ed43956)
+
+#### Abstract Factory
+- [Design Patterns — A quick guide to Abstract Factory.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-abstract-factory-ab500dc12e6c)
+
 #### Facade
 - [Design Patterns — A quick guide to Facade pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6)
 
