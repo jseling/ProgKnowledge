@@ -26,6 +26,7 @@
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
 - [Pathfinding for Tower Defense](https://www.redblobgames.com/pathfinding/tower-defense/)
+- [Unmasking Bitmasked Dynamic Programming](https://medium.freecodecamp.org/unmasking-bitmasked-dynamic-programming-25669312b77b)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
