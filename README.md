@@ -122,6 +122,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://edermfl.wordpress.com/2016/01/05/interface-fluente-e-stepbuilders/
 - https://dzone.com/refcardz/design-patterns?chapter=1
 
+#### Facade
+- [Design Patterns — A quick guide to Facade pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6)
+
 ### Programação
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
 - [Why shouldn't I use “Hungarian Notation”? - StackOverflow](https://stackoverflow.com/questions/111933/why-shouldnt-i-use-hungarian-notation)
