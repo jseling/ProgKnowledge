@@ -16,9 +16,6 @@
 - https://pt.slideshare.net/AndrJusti/presentations
 - [Java versus C# .NET Core fastest programs](https://benchmarksgame-team.pages.debian.net/benchmarksgame/faster/java-csharpcore.html)
 
-## Paradigmas
-- [Methods for abstraction, programming paradigms, and techniques for managing the complexity of large programs](http://composingprograms.com/)
-
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
 - [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
@@ -27,6 +24,8 @@
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
 - [Pathfinding for Tower Defense](https://www.redblobgames.com/pathfinding/tower-defense/)
 - [Unmasking Bitmasked Dynamic Programming](https://medium.freecodecamp.org/unmasking-bitmasked-dynamic-programming-25669312b77b)
+- [Methods for abstraction, programming paradigms, and techniques for managing the complexity of large programs](http://composingprograms.com/)
+- [Reevaluating the Layered Architecture](https://javadevguy.wordpress.com/2019/01/06/reevaluating-the-layered-architecture/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
