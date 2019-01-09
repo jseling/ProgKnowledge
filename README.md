@@ -26,6 +26,7 @@
 - [Unmasking Bitmasked Dynamic Programming](https://medium.freecodecamp.org/unmasking-bitmasked-dynamic-programming-25669312b77b)
 - [Methods for abstraction, programming paradigms, and techniques for managing the complexity of large programs](http://composingprograms.com/)
 - [Reevaluating the Layered Architecture](https://javadevguy.wordpress.com/2019/01/06/reevaluating-the-layered-architecture/)
+- [Cálculo lambda](https://github.com/Webschool-io/matematica-para-programadores/tree/master/calculo-lambda)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
