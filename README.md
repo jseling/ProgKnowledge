@@ -188,6 +188,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Neural Nets
 - [Neural Network Woes](https://en.reddit.com/r/ProgrammerHumor/comments/a8xe9w/neural_network_woes/?st=jq2d92md&sh=d76f4b13)
 - [Computer Vision (AI): Object Detection and Segmentation with Mask R-CNN](https://www.youtube.com/watch?v=akK5ui-vel0&feature=youtu.be)
+- [Neural Networks to Production, From an Engineer](https://austingwalters.com/neural-networks-to-production-from-an-engineer/)
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
