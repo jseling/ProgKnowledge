@@ -132,7 +132,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 #### Facade
 - [Design Patterns — A quick guide to Facade pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6)
 
-### Obeserver
+#### Observer
 - [Design Patterns — A quick guide to Observer pattern.](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2)
 
 ### Programação
@@ -166,6 +166,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://inf.ufes.br/~tavares/labcomp2000/introcomp.html
 - http://www.dcc.ufrj.br/~fabiom/comp20112/
 - https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Teoria_dos_Compiladores/An%C3%A1lise_L%C3%A9xica
+- http://www.ic.unicamp.br/~sandro/cursos/mc910/slides/
 
 ## Extenso
 - https://torry.net/quicksearchd.php?String=NumWords&Title=Yes
@@ -177,10 +178,6 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://www.englishexperts.com.br/forum/numeros-em-ingles-de-0-a-1-000-000-000-t1078.html
 - https://www.englishexperts.com.br/numeros-em-ingles-por-extenso/
 - https://www.englishexperts.com.br/wp-content/themes/master/tools/numeros-extenso/numbers.js
-
-
-## Parsers
-- http://www.ic.unicamp.br/~sandro/cursos/mc910/slides/
 
 ## Autenticação
 - [How We Solved Authentication and Authorization in Our Microservice Architecture](https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6)
