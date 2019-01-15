@@ -132,6 +132,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 #### Facade
 - [Design Patterns — A quick guide to Facade pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-facade-pattern-16e3d2f1bfb6)
 
+### Obeserver
+- [Design Patterns — A quick guide to Observer pattern.](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2)
+
 ### Programação
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
 - [Why shouldn't I use “Hungarian Notation”? - StackOverflow](https://stackoverflow.com/questions/111933/why-shouldnt-i-use-hungarian-notation)
