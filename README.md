@@ -144,6 +144,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Programação funcional
 - [Começando com Programação Funcional.](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
 - [Programação funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
+- [THE PILLARS OF FUNCTIONAL PROGRAMMING (PART 1)](https://sigma.software/about/media/pillars-functional-programming-part-1)
+- [THE PILLARS OF FUNCTIONAL PROGRAMMING (PART 2)](https://sigma.software/about/media/pillars-functional-programming-part-2)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
