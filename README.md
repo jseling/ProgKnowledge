@@ -140,12 +140,19 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Why shouldn't I use “Hungarian Notation”? - StackOverflow](https://stackoverflow.com/questions/111933/why-shouldnt-i-use-hungarian-notation)
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [Monadic Error Handling](https://medium.com/@huund/monadic-error-handling-1e2ce66e3810)
+- [What is imperative programming?](https://dev.to/mortoray/what-is-imperative-programming)
+- [What is functional programming?](https://dev.to/mortoray/what-is-functional-programming)
+- [What is event programming?](https://dev.to/mortoray/what-is-event-programming)
+- [What is declarative programming?](https://dev.to/mortoray/what-is-declarative-programming)
+- [What is reactive and stream programming?](https://dev.to/mortoray/what-is-reactive-and-stream-programming)
 
 ## Programação funcional
 - [Começando com Programação Funcional.](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
 - [Programação funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
 - [THE PILLARS OF FUNCTIONAL PROGRAMMING (PART 1)](https://sigma.software/about/media/pillars-functional-programming-part-1)
 - [THE PILLARS OF FUNCTIONAL PROGRAMMING (PART 2)](https://sigma.software/about/media/pillars-functional-programming-part-2)
+- [Functional programming is not a paradigm](https://dev.to/notriddle/functional-programming-is-not-a-paradigm-1p8o)
+- [Can I do FP in my language?](https://dev.to/ericnormand/can-i-do-fp-in-my-language)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
