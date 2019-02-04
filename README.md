@@ -153,6 +153,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [THE PILLARS OF FUNCTIONAL PROGRAMMING (PART 2)](https://sigma.software/about/media/pillars-functional-programming-part-2)
 - [Functional programming is not a paradigm](https://dev.to/notriddle/functional-programming-is-not-a-paradigm-1p8o)
 - [Can I do FP in my language?](https://dev.to/ericnormand/can-i-do-fp-in-my-language)
+- [Lambda Calculus for Programmers](https://mathdevelopment.tumblr.com/post/182509661410/lambda-calculus-for-programmers)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
