@@ -19,6 +19,7 @@
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
 - [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
+- [Antipatterns - DevIQ](https://deviq.com/tag/antipattern/)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
@@ -88,6 +89,10 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## FIRST
 - [FIRST Concept](https://addyosmani.com/first/)
+
+## YAGNI
+ - [Yagni - Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
+ - [YAGNI - You ain't gonna need it](https://deviq.com/yagni/)
 
 ## Patterns
 
