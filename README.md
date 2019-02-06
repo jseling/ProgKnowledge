@@ -30,6 +30,7 @@
 - [Cálculo lambda](https://github.com/Webschool-io/matematica-para-programadores/tree/master/calculo-lambda)
 - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [FLOATING POINT VISUALLY EXPLAINED](http://fabiensanglard.net/floating_point_visually_explained/index.php)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
