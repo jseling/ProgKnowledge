@@ -20,6 +20,7 @@
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
 - [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
 - [Antipatterns - DevIQ](https://deviq.com/tag/antipattern/)
+- [Navalha de Occam - Simplicidade](https://pt.wikipedia.org/wiki/Navalha_de_Occam)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
