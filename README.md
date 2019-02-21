@@ -220,4 +220,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Performance
 - [Challenge your performance intuition with C++ operators](http://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_operators.html)
 
+## Programação dinâmica
+- [Geeks - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
 ΛΘΧΙΛΡΖ
