@@ -66,6 +66,7 @@
 - [Seven Steps to Great Unit Test Names](http://agileinaflash.blogspot.com/2012/05/seven-steps-to-great-unit-test-names.html)
 - [The Myth Of 100% Code Coverage](https://itnext.io/the-myth-of-100-code-coverage-c7d4c789700d)
 - [Don't Measure Unit Test Code Coverage](https://dzone.com/articles/dont-measure-unit-test-code-coverage)
+- [Test-Driven Development is not about tests](https://lucasfcosta.com/2018/10/18/TDD-is-not-about-tests.html)
 
 ### TDD Humble Object
 Uma view serve apenas para mostrar informações ao usuário e/ou receber instruções deste. Input/Output, nada de processamento. Todo processamento/lógica que interage com a view deve ficar em classes separadas, a interação entre estes deve ser através de parâmetros em funções tipo "CarregarUsuarios(AUsuarioView)", assim esse objeto poderá ser testado através de um mock da view "CarregarUsuario(AUsuarioViewMock)". Essa view desacoplada do processamento/lógica é chamada de "Humble dialog" no padrão humble objeto. 
@@ -169,6 +170,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Can I do FP in my language?](https://dev.to/ericnormand/can-i-do-fp-in-my-language)
 - [Lambda Calculus for Programmers](https://mathdevelopment.tumblr.com/post/182509661410/lambda-calculus-for-programmers)
 - [Functional Programming in C#](https://blog.qfpl.io/posts/fp-in-csharp/)
+- [A Gentle Introduction to Lambda Calculus - Part 1: Syntax](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
+- [A Gentle Introduction to Lambda Calculus - Part 2: Execution](https://lucasfcosta.com/2018/08/05/An-Introduction-to-Lambda-Calculus-Part-2.html)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
