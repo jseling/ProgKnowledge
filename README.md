@@ -10,6 +10,10 @@
 - [Guia de Desenvolvimento Técnico - ThoughtWorks Brasil](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/)
 - https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
 
+## FreeBooks
+- [Oreilly](https://www.oreilly.com/programming/free/)
+- [Packt Pub](https://www.packtpub.com/packt/offers/free-learning)
+
 ## Linguagens
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
 - http://awesome-br.com
