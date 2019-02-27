@@ -26,6 +26,7 @@
 - [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
 - [Antipatterns - DevIQ](https://deviq.com/tag/antipattern/)
 - [Navalha de Occam - Simplicidade](https://pt.wikipedia.org/wiki/Navalha_de_Occam)
+- [A taxonomy of tech debt in LOL](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
