@@ -27,6 +27,7 @@
 - [Antipatterns - DevIQ](https://deviq.com/tag/antipattern/)
 - [Navalha de Occam - Simplicidade](https://pt.wikipedia.org/wiki/Navalha_de_Occam)
 - [A taxonomy of tech debt in LOL](https://engineering.riotgames.com/news/taxonomy-tech-debt)
+- [Where Do I Put My Business Rules And Validation?](https://builtwithdot.net/blog/where-do-i-put-my-business-rules-and-validation)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
@@ -183,6 +184,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [How to estimate programming time](https://flaviocopes.com/estimating/)
 - [Do code comments suck?](https://medium.com/comparethemarket/do-code-comments-suck-abd99103c45a)
 - [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
+- [This Is What You Get When You Ask Programmers To Write Poetry](https://codesmithdev.com/this-is-what-you-get-when-you-ask-programmers-to-write-poetry/)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
