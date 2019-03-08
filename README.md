@@ -1,5 +1,10 @@
 # ProgKnowledge
 
+* Codificamos para outras pessoas, eventualmente para a máquina.
+* Quanto tempo um código-fonte é usado pela máquina? Quanto tempo esse código é usado por humanos?
+* A manutenibilidade de um código precede seu desempenho.
+
+
 ## Blogs & sites sources
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
 - https://blog.cleancoder.com/
