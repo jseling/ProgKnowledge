@@ -89,6 +89,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 - http://www.univale.com.br/unisite/mundo-j/artigos/23Testes.pdf
 
+## DDD
+- [Domain-Driven Design Demystified](https://dzone.com/articles/domain-driven-design-demystified)
+
 ## SOLID
 - [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
 - [Writing SOLID Code: SRP](https://www.anglesandtypes.io/archives/174)
