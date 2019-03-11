@@ -194,6 +194,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Do code comments suck?](https://medium.com/comparethemarket/do-code-comments-suck-abd99103c45a)
 - [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 - [This Is What You Get When You Ask Programmers To Write Poetry](https://codesmithdev.com/this-is-what-you-get-when-you-ask-programmers-to-write-poetry/)
+- [Technical Debt is like Tetris](https://medium.com/@erichiggins/technical-debt-is-like-tetris-168f64d8b700)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
