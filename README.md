@@ -44,6 +44,7 @@
 - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [FLOATING POINT VISUALLY EXPLAINED](http://fabiensanglard.net/floating_point_visually_explained/index.php)
+- [Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://medium.freecodecamp.org/asymptotic-analysis-explained-with-pok%C3%A9mon-a-deep-dive-into-complexity-analysis-8bf4396804e0)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
