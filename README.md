@@ -184,6 +184,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Functional Programming in C#](https://blog.qfpl.io/posts/fp-in-csharp/)
 - [A Gentle Introduction to Lambda Calculus - Part 1: Syntax](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 - [A Gentle Introduction to Lambda Calculus - Part 2: Execution](https://lucasfcosta.com/2018/08/05/An-Introduction-to-Lambda-Calculus-Part-2.html)
+- [why-functional-programming-matters.pdf](https://github.com/papers-we-love/papers-we-love/blob/master/paradigms/functional_programming/why-functional-programming-matters.pdf)
+- [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+- [Can Your Programming Language Do This?](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
