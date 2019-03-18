@@ -173,6 +173,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [What is event programming?](https://dev.to/mortoray/what-is-event-programming)
 - [What is declarative programming?](https://dev.to/mortoray/what-is-declarative-programming)
 - [What is reactive and stream programming?](https://dev.to/mortoray/what-is-reactive-and-stream-programming)
+- [Dr. Alan Kay on the Meaning of “Object-Oriented Programming”](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
+- [REDDIT: Dr. Alan Kay on the Meaning of “Object-Oriented Programming”](https://en.reddit.com/r/programming/comments/b29qav/dr_alan_kay_on_the_meaning_of_objectoriented/)
 
 ## Programação funcional
 - [Começando com Programação Funcional.](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
