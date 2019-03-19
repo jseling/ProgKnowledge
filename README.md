@@ -109,6 +109,12 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Dependency Injection Is NOT The Same As The Dependency Inversion Principle](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
 - [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
+## Tell, dont ask
+- [Martin Fowler](https://martinfowler.com/bliki/TellDontAsk.html)
+- [wiki.c2](http://wiki.c2.com/?TellDontAsk)
+- [Tell, don’t ask (ou… fique longe das minhas propriedades)](https://www.lambda3.com.br/2009/07/tell-dont-ask-ou-fique-longe-das-minhas-propriedades/)
+- [ROBSON CASTILHO](https://robsoncastilho.com.br/2014/05/11/conceitos-tell-dont-ask/)
+
 ## FIRST
 - [FIRST Concept](https://addyosmani.com/first/)
 
