@@ -34,6 +34,10 @@
 - [A taxonomy of tech debt in LOL](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 - [Where Do I Put My Business Rules And Validation?](https://builtwithdot.net/blog/where-do-i-put-my-business-rules-and-validation)
 
+## AntiPatterns & Code Smells
+- [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
+- [Code Smell](http://wiki.c2.com/?CodeSmell)
+
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
 - [Pathfinding for Tower Defense](https://www.redblobgames.com/pathfinding/tower-defense/)
