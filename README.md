@@ -18,6 +18,7 @@
 ## FreeBooks
 - [Oreilly](https://www.oreilly.com/programming/free/)
 - [Packt Pub](https://www.packtpub.com/packt/offers/free-learning)
+- [Programming Notes for Professionals books](https://downloads.goalkicker.com/)
 
 ## Linguagens
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
