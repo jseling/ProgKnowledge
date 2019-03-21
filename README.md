@@ -1,8 +1,8 @@
 # ProgKnowledge
 
 * Codificamos para outras pessoas, eventualmente para a máquina.
-* Quanto tempo um código-fonte é usado pela máquina? Quanto tempo esse código é usado por humanos?
-* A manutenibilidade de um código precede seu desempenho.
+* Quanto tempo o fonte é usado por máquinas? Quanto tempo é usado por humanos?
+* A manutenibilidade do código precede seu desempenho.
 
 
 ## Blogs & sites sources
