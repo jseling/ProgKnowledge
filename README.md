@@ -203,6 +203,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [An introduction to functional programming](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 - [Can Your Programming Language Do This?](https://www.joelonsoftware.com/2006/08/01/can-your-programming-language-do-this/)
 - [Circuit Breaker in a Functional World](https://levelup.gitconnected.com/circuit-breaker-in-a-functional-world-9c555c8e9527)
+- [Functional programming explained for the pragmatic programmer.](https://codurance.com/2018/08/09/the-functional-style-part-1/)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
