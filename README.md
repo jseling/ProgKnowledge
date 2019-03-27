@@ -39,6 +39,7 @@
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
 - [Code Smell](http://wiki.c2.com/?CodeSmell)
+- [10 Code Smells a Static Analyser Can Locate in a Codebase](https://www.fluentcpp.com/2019/03/26/10-code-smells-a-static-analyser-can-locate-in-a-codebase/)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
