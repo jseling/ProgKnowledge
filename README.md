@@ -154,6 +154,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
 - https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html#GUIBuider
 
+### MVC
+- [Seus controllers devem ser leves.](http://gabsferreira.com/seus-controllers-devem-ser-leves/)
+
 ### Design
 - [From design patterns to category theory](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 - https://sourcemaking.com/design_patterns
