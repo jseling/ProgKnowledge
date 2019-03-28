@@ -16,6 +16,7 @@
 - [Guia de Desenvolvimento Técnico - ThoughtWorks Brasil](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/)
 - https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [A Smart Programmer Understands The Problems Worth Fixing](https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943)
 
 ## FreeBooks
 - [Oreilly](https://www.oreilly.com/programming/free/)
