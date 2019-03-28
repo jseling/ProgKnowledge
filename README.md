@@ -4,6 +4,7 @@
 * Quanto tempo o fonte é usado por máquinas? Quanto tempo é usado por humanos?
 * A manutenibilidade do código precede seu desempenho.
 
+- [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 
 ## Blogs & sites sources
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
