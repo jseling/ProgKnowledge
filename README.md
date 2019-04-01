@@ -56,6 +56,7 @@
 - [Asymptotic Analysis Explained with Pokémon: A Deep Dive into Complexity Analysis](https://medium.freecodecamp.org/asymptotic-analysis-explained-with-pok%C3%A9mon-a-deep-dive-into-complexity-analysis-8bf4396804e0)
 - [Data Locality](http://www.gameprogrammingpatterns.com/data-locality.html)
 - [Pathfinding Demystified (Part I): Generic Search Algorithm](http://www.gabrielgambetta.com/generic-search.html)
+- [A Gentle Introduction to Divide and Conquer Algorithms](https://skerritt.blog/divide-and-conquer-algorithms/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
