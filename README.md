@@ -149,6 +149,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://www.quora.com/Is-it-true-that-a-good-programmer-uses-fewer-if-conditions-than-an-amateur
 - [Yegor - Fail Fast](https://www.yegor256.com/2015/08/25/fail-fast.html)
 - [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
+- [Crash early and crash often for more reliable software](https://medium.com/@mattklein123/crash-early-and-crash-often-for-more-reliable-software-597738dd21c5)
 - [The Clean Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Clean Micro-service Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
 - [Immutable Data](http://kevinmahoney.co.uk/articles/immutable-data/)
