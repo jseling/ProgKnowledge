@@ -42,6 +42,7 @@
 - [A taxonomy of tech debt in LOL](https://engineering.riotgames.com/news/taxonomy-tech-debt)
 - [Where Do I Put My Business Rules And Validation?](https://builtwithdot.net/blog/where-do-i-put-my-business-rules-and-validation)
 - [ARTICLEHow To Code Like The Top Programmers At NASA — 10 Critical Rules](https://www.tastemovies.com/article/how-to-code-like-the-top-programmers-at-nasa-10-critical-rules/)
+- [Clean Code Poster - free download](https://kingadesign.com/clean-code-poster-free-download)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
