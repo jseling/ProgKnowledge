@@ -143,6 +143,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## KISS
  - [KISS for Reducing Tech Debt](https://dzone.com/articles/kiss-for-reducing-tech-debt)
 
+## Dependecy Injection
+- [Dependency injection containers vs object composition](https://www.driver733.com/2019/03/31/dependency-injection-containers-vs-object-composition.html)
+
 ## Patterns
 
 ### Architecture
