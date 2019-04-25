@@ -44,6 +44,7 @@
 - [ARTICLEHow To Code Like The Top Programmers At NASA — 10 Critical Rules](https://www.tastemovies.com/article/how-to-code-like-the-top-programmers-at-nasa-10-critical-rules/)
 - [Clean Code Poster - free download](https://kingadesign.com/clean-code-poster-free-download)
 - [Why I Never Null-Check Parameters](https://dzone.com/articles/why-i-never-null-check-parameters)
+- [Designing Bulletproof Code](https://dzone.com/articles/designing-a-bulletproof-code)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
