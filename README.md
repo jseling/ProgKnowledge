@@ -3,7 +3,6 @@
 * Codificamos para outras pessoas, eventualmente para a máquina.
 * Quanto tempo o fonte é usado por máquinas? Quanto tempo é usado por humanos?
 * A manutenibilidade do código precede seu desempenho.
-
 * Em vez de validar parâmetros Null em cada método, deve-se garantir que eles não são nulos antes de se passar para o método. Isso é tornar o código mais robusto.
 * Validar parâmetros nulos é como colocar escoras no método. Será que justifica-se em um legado onde você não tem controle de onde vem o parâmetro ou não tem tempo de procurar? Ou numa biblioteca onde você não sabe como o programador vai usar? Isso compromete a filosofia de fail fast.
 * Fazer essa validação e executar o negócio compromete a responsabilidade única do método segundo o SOLID.
@@ -45,6 +44,7 @@
 - [Clean Code Poster - free download](https://kingadesign.com/clean-code-poster-free-download)
 - [Why I Never Null-Check Parameters](https://dzone.com/articles/why-i-never-null-check-parameters)
 - [Designing Bulletproof Code](https://dzone.com/articles/designing-a-bulletproof-code)
+- [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
