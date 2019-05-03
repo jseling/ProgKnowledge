@@ -298,4 +298,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Regex Cheat Sheet](https://dev.to/emmawedekind/regex-cheat-sheet-2j2a)
 - [Regular expressions cheat sheet](http://www.cbs.dtu.dk/courses/27610/regular-expressions-cheat-sheet-v2.pdf)
 
+## Lua
+- [Binding Code To Lua](http://lua-users.org/wiki/BindingCodeToLua)
+
+
 ΛΘΧΙΛΡΖ
