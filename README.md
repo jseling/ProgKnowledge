@@ -129,6 +129,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 - [The Single Responsibility Principle under the microscope](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/25/the-single-responsibility-principle-under-the-microscope.aspx)
 
+## IODA
+- [The IODA Architecture](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/29/the-ioda-architecture.aspx)
+
 ## Tell, dont ask
 - [Martin Fowler](https://martinfowler.com/bliki/TellDontAsk.html)
 - [wiki.c2](http://wiki.c2.com/?TellDontAsk)
