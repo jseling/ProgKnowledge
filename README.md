@@ -127,6 +127,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Writing SOLID Code: DIP](https://www.anglesandtypes.io/archives/221)
 - [Dependency Injection Is NOT The Same As The Dependency Inversion Principle](https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/)
 - [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+- [The Single Responsibility Principle under the microscope](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/25/the-single-responsibility-principle-under-the-microscope.aspx)
 
 ## Tell, dont ask
 - [Martin Fowler](https://martinfowler.com/bliki/TellDontAsk.html)
