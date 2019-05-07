@@ -6,6 +6,7 @@
 * Em vez de validar parâmetros Null em cada método, deve-se garantir que eles não são nulos antes de se passar para o método. Isso é tornar o código mais robusto.
 * Validar parâmetros nulos é como colocar escoras no método. Será que justifica-se em um legado onde você não tem controle de onde vem o parâmetro ou não tem tempo de procurar? Ou numa biblioteca onde você não sabe como o programador vai usar? Isso compromete a filosofia de fail fast.
 * Fazer essa validação e executar o negócio compromete a responsabilidade única do método segundo o SOLID.
+* Um método com nome muito longo significaria que ele pode ser separado em outra classe? Um nome comprido geralmente envolve nomeações de escopos que seriam a(s) nova(s) classe(s)?
 
 - [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 
