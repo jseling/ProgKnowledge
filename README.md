@@ -46,6 +46,7 @@
 - [Why I Never Null-Check Parameters](https://dzone.com/articles/why-i-never-null-check-parameters)
 - [Designing Bulletproof Code](https://dzone.com/articles/designing-a-bulletproof-code)
 - [Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/@huytrongnguyen1985/lessons-learnt-from-the-clean-code-robert-c-martin-cecbe2b09139)
+- [Is “Defensive Programming” actually healthy?](https://dev.to/cubiclebuddha/is-defensive-programming-actually-healthy-5flj)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
