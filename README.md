@@ -220,6 +220,10 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [REDDIT: Dr. Alan Kay on the Meaning of “Object-Oriented Programming”](https://en.reddit.com/r/programming/comments/b29qav/dr_alan_kay_on_the_meaning_of_objectoriented/)
 - [What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc)
 
+## Combinador de ponto fixo (Y Combinator)
+- [The Y combinator or how to implement recursion in a language that doesn't support it](https://deniskyashif.com/on-recursive-functions/)
+- [Combinador de ponto fixo - Wikipedia](https://pt.wikipedia.org/wiki/Combinador_de_ponto_fixo)
+
 ## Programação funcional
 - [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Começando com Programação Funcional.](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
