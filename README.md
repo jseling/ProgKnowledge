@@ -242,6 +242,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Circuit Breaker in a Functional World](https://levelup.gitconnected.com/circuit-breaker-in-a-functional-world-9c555c8e9527)
 - [Functional programming explained for the pragmatic programmer.](https://codurance.com/2018/08/09/the-functional-style-part-1/)
 - [Então você ainda não entende monads?](https://medium.com/rung-brasil/ent%C3%A3o-voc%C3%AA-ainda-n%C3%A3o-entende-monads-1ea62e0c14a7)
+- [Functional programming solutions for familiar problems](https://github.com/ashwinbhaskar/functional-way)
 
 ## Opiniões
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
