@@ -221,6 +221,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Dr. Alan Kay on the Meaning of “Object-Oriented Programming”](http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en)
 - [REDDIT: Dr. Alan Kay on the Meaning of “Object-Oriented Programming”](https://en.reddit.com/r/programming/comments/b29qav/dr_alan_kay_on_the_meaning_of_objectoriented/)
 - [What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc)
+- [Alan Kay and Missing Messages](https://ovid.github.io/articles/alan-kay-and-missing-messages-a-follow-up.html)
+- [REDDIT: Alan Kay and Missing Messages](https://en.reddit.com/r/programming/comments/brly02/how_to_handle_unanswered_messages_a_follow_up_to/)
 
 ## Combinador de ponto fixo (Y Combinator)
 - [The Y combinator or how to implement recursion in a language that doesn't support it](https://deniskyashif.com/on-recursive-functions/)
