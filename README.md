@@ -49,6 +49,9 @@
 - [Is “Defensive Programming” actually healthy?](https://dev.to/cubiclebuddha/is-defensive-programming-actually-healthy-5flj)
 - [Algorithms as objects](https://gieseanw.wordpress.com/2019/05/10/algorithms-as-objects/)
 - [10 common broken rules of clean code](http://www.kamilgrzybek.com/clean-code/10-common-broken-clean-code-rules/)
+- [Martin Fowler - TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html)
+- [Martin Fowler - TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
