@@ -319,5 +319,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Lua
 - [Binding Code To Lua](http://lua-users.org/wiki/BindingCodeToLua)
 
+## Integração Contínua
+- [Anti Patterns of Continuous Integration](https://hackernoon.com/anti-patterns-of-continuous-integration-e1cafd47556d)
 
 ΛΘΧΙΛΡΖ
