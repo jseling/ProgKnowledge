@@ -56,7 +56,8 @@ public
 end;
 
 //injeção de dependência através de composição de objetos
-//elimina a dependência das implementações das outras classes
+//elimina a dependência das implementações e 
+//dependências (dependências de dependências) das outras classes 
 constructor TMinhaClasse.Create(_AIFazIsto, _AIFazAquilo);
 begin
  FIFazIsto := _AIFazIsto;
