@@ -59,7 +59,7 @@ end;
 //elimina a dependência das implementações e 
 //dependências (dependências de dependências) das outras classes;
 //Torna a classe mais reutilizável e
-//agnóstica ("desconhecedora") de outras implementações.
+//independente/agnóstica ("desconhecedora") de outras implementações.
 constructor TMinhaClasse.Create(_AIFazIsto, _AIFazAquilo);
 begin
  FIFazIsto := _AIFazIsto;
