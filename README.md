@@ -8,7 +8,7 @@
 * Fazer essa validação e executar o negócio compromete a responsabilidade única do método segundo o SOLID.
 * Um método com nome muito longo significaria que ele pode ser separado em outra classe? Um nome comprido geralmente envolve nomeações de escopos que seriam a(s) nova(s) classe(s)?
 
-Não é bom
+**Não é bom**
 ```pascal
 TMinhaClasse = class
 private
@@ -25,7 +25,7 @@ begin
 end;
 ```
 
-É melhor
+**É melhor**
 ```pascal
 TMinhaClasse = class
 public
@@ -42,7 +42,7 @@ begin
 end;
 ```
 
-É melhor ainda
+**É melhor ainda**
 ```pascal
 uses
  uInterfaceFazIsto, uInterfaceFazAquilo;
