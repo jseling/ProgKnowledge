@@ -8,6 +8,69 @@
 * Fazer essa validação e executar o negócio compromete a responsabilidade única do método segundo o SOLID.
 * Um método com nome muito longo significaria que ele pode ser separado em outra classe? Um nome comprido geralmente envolve nomeações de escopos que seriam a(s) nova(s) classe(s)?
 
+Não é bom
+```pascal
+TMinhaClasse = class
+private
+ procedure FazIsto; //se for usada herança para sobreescrever é pior ainda
+ procedure FazAquilo;
+public
+ procedure FazCoisa;
+end;
+
+procedure TMinhaClasse.FazCoisa;
+begin
+ FazIsto;
+ FazAquilo;
+end;
+```
+
+É melhor
+```pascal
+TMinhaClasse = class
+public
+ procedure FazCoisa;
+end;
+
+uses
+ uClasseFazIsto, uClasseFazAquilo;
+
+procedure TMinhaClasse.FazCoisa;
+begin
+ TClasseFazIsto.FazIsto(params); //não necessáriamente um método estático
+ TClasseFazAquilo.FazAquilo(params);
+end;
+```
+
+É melhor ainda
+```pascal
+uses
+ uInterfaceFazIsto, uInterfaceFazAquilo;
+ 
+TMinhaClasse = class
+private
+ FIFazIsto: IFazIsto;
+ FIFazAquilo: IFazAquilo;
+public
+ procedure FazCoisa;
+end;
+
+//injeção de dependência através de composição de objetos
+//elimina a dependência das implementações das outras classes
+constructor TMinhaClasse.Create(_AIFazIsto, _AIFazAquilo);
+begin
+ FIFazIsto := _AIFazIsto;
+ FIFazAquilo := _AIFazAquilo;
+end;
+
+procedure TMinhaClasse.FazCoisa;
+begin
+ FIFazIsto.FazIsto(params); 
+ FIFazAquilo.FazAquilo(params);
+end;
+```
+
+
 - [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 
 ## Blogs & sites sources
