@@ -138,6 +138,7 @@ end;
 - [Data Locality](http://www.gameprogrammingpatterns.com/data-locality.html)
 - [Pathfinding Demystified (Part I): Generic Search Algorithm](http://www.gabrielgambetta.com/generic-search.html)
 - [A Gentle Introduction to Divide and Conquer Algorithms](https://skerritt.blog/divide-and-conquer-algorithms/)
+- [The most used algorithms](https://www.aisoma.de/slides/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
