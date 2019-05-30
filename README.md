@@ -331,6 +331,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Technical Debt is like Tetris](https://medium.com/@erichiggins/technical-debt-is-like-tetris-168f64d8b700)
 - [Programmer migration patterns (troca de linguagens)](https://apenwarr.ca/log/20190318)
 - ["LÓGICA DE PROGRAMAÇÃO" É BOBAGEM, e explicarei porquê.](https://www.facebook.com/groups/142918099147059?view=permalink&id=488111991294333)
+- [Is High Quality Software Worth the Cost? - Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
