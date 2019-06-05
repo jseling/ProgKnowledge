@@ -322,4 +322,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Integração Contínua
 - [Anti Patterns of Continuous Integration](https://hackernoon.com/anti-patterns-of-continuous-integration-e1cafd47556d)
 
+## Git
+- [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+
 ΛΘΧΙΛΡΖ
