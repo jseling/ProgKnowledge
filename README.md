@@ -171,6 +171,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [How can you do anything useful without mutable state?](https://stackoverflow.com/questions/1020653/how-can-you-do-anything-useful-without-mutable-state)
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Software Architecture: the 5 Patterns You Need to Know](https://blog.ndepend.com/software-architecture-5-patterns-you-need-know/)
+- [What’s an API?](https://hackernoon.com/what-is-an-api-26668ca8a294)
+
 
 ### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
