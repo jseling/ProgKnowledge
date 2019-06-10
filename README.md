@@ -132,6 +132,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The Single Responsibility Principle under the microscope](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/25/the-single-responsibility-principle-under-the-microscope.aspx)
 - [SOLID Principles: The Software Developer's Framework to Robust & Maintainable Code [with Examples]](https://khalilstemmler.com/articles/solid-principles/solid-typescript/)
 - [OOP is dead, long live OOP](https://www.gamedev.net/blogs/entry/2265481-oop-is-dead-long-live-oop/)
+- [S.O.L.I.D Principles](https://medium.com/@andy.sek94/s-o-l-i-d-principles-for-software-development-611b5f7170de)
 
 ## IODA
 - [The IODA Architecture](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/29/the-ioda-architecture.aspx)
