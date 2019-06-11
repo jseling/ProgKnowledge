@@ -67,6 +67,7 @@
 - [A Gentle Introduction to Divide and Conquer Algorithms](https://skerritt.blog/divide-and-conquer-algorithms/)
 - [The most used algorithms](https://www.aisoma.de/slides/)
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Coding Challenges With Step by Step Solutions](https://algodaily.com/challenges)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
