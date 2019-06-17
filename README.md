@@ -156,6 +156,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Dependecy Injection
 - [Dependency injection containers vs object composition](https://www.driver733.com/2019/03/31/dependency-injection-containers-vs-object-composition.html)
+- [Inversion of Control Containers and the Dependency Injection pattern](https://www.martinfowler.com/articles/injection.html)
 
 ## Patterns
 
