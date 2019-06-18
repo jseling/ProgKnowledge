@@ -252,6 +252,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Functional programming solutions for familiar problems](https://github.com/ashwinbhaskar/functional-way)
 
 ## Opiniões
+- [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
 - [Enthusiasts vs. Pragmatists: two types of programmers and how they fail](https://codewithoutrules.com/2018/11/12/enthusiasts-vs-pragmatists/)
 - [Why bad software architecture is easy to monetize](http://tojans.me/blog/2014/02/17/why-bad-software-architecture-is-easy-to-monetize/)
