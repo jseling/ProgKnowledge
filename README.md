@@ -214,6 +214,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ### Programação
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
 - [Why shouldn't I use “Hungarian Notation”? - StackOverflow](https://stackoverflow.com/questions/111933/why-shouldnt-i-use-hungarian-notation)
+- [The Cons and Cons of the Hungarian Notation](https://www.fluentcpp.com/2019/06/21/the-cons-and-cons-of-the-hungarian-notation/)
 - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 - [Monadic Error Handling](https://medium.com/@huund/monadic-error-handling-1e2ce66e3810)
 - [What is imperative programming?](https://dev.to/mortoray/what-is-imperative-programming)
