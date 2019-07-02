@@ -19,7 +19,7 @@
 - [Oreilly](https://www.oreilly.com/programming/free/)
 - [Packt Pub](https://www.packtpub.com/packt/offers/free-learning)
 - [Programming Notes for Professionals books](https://downloads.goalkicker.com/)
-- [Inside the Machine: Hardware](https://dev.to/taillogs/the-best-book-to-read-as-a-developer-1h4m)
+- :book:[Inside the Machine: Hardware](https://dev.to/taillogs/the-best-book-to-read-as-a-developer-1h4m)
 
 ## Linguagens
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
