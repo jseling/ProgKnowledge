@@ -69,6 +69,8 @@
 - [The most used algorithms](https://www.aisoma.de/slides/)
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Coding Challenges With Step by Step Solutions](https://algodaily.com/challenges)
+- [Here Are The Most Common JavaScript Algorithms and Data Structures](https://medium.com/@indreklasn/here-are-the-most-common-javascript-algorithms-and-data-structures-ec3729050169)
+- [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
