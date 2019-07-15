@@ -19,6 +19,7 @@
 - [Oreilly](https://www.oreilly.com/programming/free/)
 - [Packt Pub](https://www.packtpub.com/packt/offers/free-learning)
 - [Programming Notes for Professionals books](https://downloads.goalkicker.com/)
+- :book:[Elements of Programming: Decomposing programs into a system of algorithmic components](http://elementsofprogramming.com/)
 - :book:[Inside the Machine: Hardware](https://dev.to/taillogs/the-best-book-to-read-as-a-developer-1h4m)
 
 ## Linguagens
