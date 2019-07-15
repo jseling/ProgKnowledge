@@ -125,6 +125,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## DDD
 - [Domain-Driven Design Demystified](https://dzone.com/articles/domain-driven-design-demystified)
 
+## Event Driven
+- [Decouple Your Javascript Using Event Driven Programming](https://lukewood.dev/posts/refactor_bulletz/)
+
 ## SOLID
 - [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
 - [Writing SOLID Code: SRP](https://www.anglesandtypes.io/archives/174)
