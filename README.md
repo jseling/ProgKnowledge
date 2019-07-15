@@ -219,6 +219,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Design Patterns — A quick guide to Observer pattern.](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2)
 
 ### Programação
+- [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
 - [Why shouldn't I use “Hungarian Notation”? - StackOverflow](https://stackoverflow.com/questions/111933/why-shouldnt-i-use-hungarian-notation)
 - [The Cons and Cons of the Hungarian Notation](https://www.fluentcpp.com/2019/06/21/the-cons-and-cons-of-the-hungarian-notation/)
