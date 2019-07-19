@@ -276,6 +276,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Programmer migration patterns (troca de linguagens)](https://apenwarr.ca/log/20190318)
 - ["LÓGICA DE PROGRAMAÇÃO" É BOBAGEM, e explicarei porquê.](https://www.facebook.com/groups/142918099147059?view=permalink&id=488111991294333)
 - [Is High Quality Software Worth the Cost? - Martin Fowler](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [Yes silver bullet](https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/)
+- [Yes silver bullet - REDDIT](https://en.reddit.com/r/programming/comments/cf8fwd/yes_silver_bullet/)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
