@@ -240,6 +240,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The Y combinator or how to implement recursion in a language that doesn't support it](https://deniskyashif.com/on-recursive-functions/)
 - [Combinador de ponto fixo - Wikipedia](https://pt.wikipedia.org/wiki/Combinador_de_ponto_fixo)
 
+## Programação orientada a objetos
+- [Favor Composition Over Inheritance?](http://pling.jondgoodwin.com/post/favor-composition-over-inheritance/)
+
 ## Programação funcional
 - [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Começando com Programação Funcional.](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
