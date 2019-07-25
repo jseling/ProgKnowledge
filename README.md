@@ -28,6 +28,8 @@
 - https://usersnap.com/blog/programming-languages-2018/
 - https://pt.slideshare.net/AndrJusti/presentations
 - [Java versus C# .NET Core fastest programs](https://benchmarksgame-team.pages.debian.net/benchmarksgame/faster/java-csharpcore.html)
+- [Building a Programming Language Pt. 1](https://www.drew.ltd/blog/posts/2020-7-18.html)
+- [Building a Programming Language Pt. 2](https://www.drew.ltd/blog/posts/2020-7-24.html)
 
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
