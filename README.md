@@ -331,6 +331,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Performance
 - [Challenge your performance intuition with C++ operators](http://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_operators.html)
 
+## Concorrência
+- [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
+
 ## Programação dinâmica
 - [Geeks - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 - [The One On Dynamic Programming!](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
