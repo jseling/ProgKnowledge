@@ -6,7 +6,7 @@
 
 ## Blogs & sites sources
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
-- https://blog.cleancoder.com/
+- [Clean Coder - Uncle Bob Blog](https://blog.cleancoder.com/)
 - http://tdd.caelum.com.br/
 - http://www.growing-object-oriented-software.com/
 - http://blog.ploeh.dk/archive/
