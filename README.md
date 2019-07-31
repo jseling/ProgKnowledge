@@ -320,6 +320,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Hoje irei apresentar o VS Code](https://medium.com/@programadriano/hoje-irei-apresentar-o-vs-code-visual-studio-code-para-quem-ainda-n%C3%A3o-teve-contato-com-ele-6a0d6bd3baec)
 
 ## Neural Nets
+- [Neural Networks 101](https://lautarolobo.xyz/blog/neural-networks-101/)
 - [Neural Network Woes](https://en.reddit.com/r/ProgrammerHumor/comments/a8xe9w/neural_network_woes/?st=jq2d92md&sh=d76f4b13)
 - [Computer Vision (AI): Object Detection and Segmentation with Mask R-CNN](https://www.youtube.com/watch?v=akK5ui-vel0&feature=youtu.be)
 - [Neural Networks to Production, From an Engineer](https://austingwalters.com/neural-networks-to-production-from-an-engineer/)
