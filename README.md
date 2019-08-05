@@ -248,6 +248,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Favor Composition Over Inheritance?](http://pling.jondgoodwin.com/post/favor-composition-over-inheritance/)
 
 ## Programação funcional
+- [Inventing Monads](https://blog.kabir.sh/posts/inventing-monads.html)
 - [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Começando com Programação Funcional.](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
 - [Programação funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
