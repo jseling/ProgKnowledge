@@ -8,7 +8,7 @@
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
 - [Clean Coder - Uncle Bob Blog](https://blog.cleancoder.com/)
 - http://tdd.caelum.com.br/
-- http://www.growing-object-oriented-software.com/
+- :book:[Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)
 - http://blog.ploeh.dk/archive/
 - [Blog TDD: Geepaw Hill](http://geepawhill.org/blog/)
 - [Guia de Desenvolvimento Técnico - ThoughtWorks Brasil](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/)
