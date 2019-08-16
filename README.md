@@ -9,7 +9,7 @@
 - [Clean Coder - Uncle Bob Blog](https://blog.cleancoder.com/)
 - [Caelum: Test-Driven Development](http://tdd.caelum.com.br/)
 - :book:[Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/)
-- [Mark Seemann: Funconal programming scientist](http://blog.ploeh.dk/archive/)
+- [Mark Seemann: Functional programming scientist](http://blog.ploeh.dk/archive/)
 - [Blog TDD: Geepaw Hill](http://geepawhill.org/blog/)
 - [Guia de Desenvolvimento Técnico - ThoughtWorks Brasil](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/)
 - https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
