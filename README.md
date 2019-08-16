@@ -3,6 +3,7 @@
 
 - [A guide on how to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
 - [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
+- [Awesome list of awesome lists](https://wreeto.com/public/d8466333-6aee-4c65-a641-b901bc1e7421)
 
 ## Blogs & sites sources
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
