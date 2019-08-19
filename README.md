@@ -289,6 +289,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Yes silver bullet](https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/)
 - [Yes silver bullet - REDDIT](https://en.reddit.com/r/programming/comments/cf8fwd/yes_silver_bullet/)
 - [Programmer Time Translation Table](https://coding.abel.nu/2012/06/programmer-time-translation-table/)
+- [How to Build Good Software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
