@@ -26,7 +26,7 @@
 
 ## Linguagens
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
-- http://awesome-br.com
+- [Awesome BR é uma coleção de links nas mais diversas tecnologias, mantido pela comunidade e para a comunidade.](http://awesome-br.com)
 - https://usersnap.com/blog/programming-languages-2018/
 - https://pt.slideshare.net/AndrJusti/presentations
 - [Java versus C# .NET Core fastest programs](https://benchmarksgame-team.pages.debian.net/benchmarksgame/faster/java-csharpcore.html)
