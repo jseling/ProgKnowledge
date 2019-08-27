@@ -13,7 +13,7 @@
 - [Mark Seemann: Functional programming scientist](http://blog.ploeh.dk/archive/)
 - [Blog TDD: Geepaw Hill](http://geepawhill.org/blog/)
 - [Guia de Desenvolvimento Técnico - ThoughtWorks Brasil](https://thoughtworksinc.github.io/guia-de-desenvolvimento-tecnico/)
-- https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
+- [the Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [A Smart Programmer Understands The Problems Worth Fixing](https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943)
 
