@@ -77,6 +77,8 @@
 - [Coding Challenges With Step by Step Solutions](https://algodaily.com/challenges)
 - [Here Are The Most Common JavaScript Algorithms and Data Structures](https://medium.com/@indreklasn/here-are-the-most-common-javascript-algorithms-and-data-structures-ec3729050169)
 - [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+- [Greedy Algorithms](https://skerritt.blog/greedy-algorithms/)
+- [A Primer on Search Algorithms](https://skerritt.blog/a-primer-on-search-algorithms/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
@@ -345,6 +347,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Geeks - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 - [The One On Dynamic Programming!](https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one)
 - [A graphical introduction to dynamic programming](https://medium.com/@avik.das/a-graphical-introduction-to-dynamic-programming-2e981fa7ca2?sk=37cd14642cf1a83eb0bb33d231442837)
+- [What Is Dynamic Programming With Python Examples](https://skerritt.blog/dynamic-programming/)
 
 ## Expressões Regulares
 - [Online Tester 101](https://regex101.com/)
