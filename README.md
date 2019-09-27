@@ -80,6 +80,7 @@
 - [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 - [Greedy Algorithms](https://skerritt.blog/greedy-algorithms/)
 - [A Primer on Search Algorithms](https://skerritt.blog/a-primer-on-search-algorithms/)
+- [A Detailed Explanation of Abstraction in Software Development](https://thevaluable.dev/abstraction_software_development/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
