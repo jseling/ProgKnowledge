@@ -214,6 +214,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://www.devmedia.com.br/interfaces-fluentes-revista-net-magazine-95/24065
 - https://edermfl.wordpress.com/2016/01/05/interface-fluente-e-stepbuilders/
 - https://dzone.com/refcardz/design-patterns?chapter=1
+- [Is It Time to Get Over Design Patterns?](https://medium.com/young-coder/is-it-time-to-get-over-design-patterns-8851864a6834)
 
 #### Singleton
 - [Design Patterns — A quick guide to Singleton pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-singleton-pattern-60732ed43956)
