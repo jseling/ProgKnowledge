@@ -52,6 +52,7 @@
 - [10 common broken rules of clean code](http://www.kamilgrzybek.com/clean-code/10-common-broken-clean-code-rules/)
 - [Martin Fowler - TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html)
 - [Martin Fowler - TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
+- [Stop Calling it Bad Code](https://blog.pragmaticengineer.com/bad-code/)
 
 
 ## AntiPatterns & Code Smells
