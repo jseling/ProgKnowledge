@@ -305,7 +305,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Use a Cabeça ! Padrões de Projetos](https://www.saraiva.com.br/use-a-cabeca-padroes-de-projetos-design-patterns-2-ed-revisada-1995765.html?pac_id=123134)
 
 ## OData
-- http://www.odata.org/documentation/
+- [OData Documentation](http://www.odata.org/documentation/)
 
 ## Parsers
 - https://johnidm.gitbooks.io/compiladores-para-humanos/content/part1/lexical-analysis.html
