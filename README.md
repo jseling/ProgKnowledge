@@ -28,7 +28,6 @@
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
 - [Awesome BR é uma coleção de links nas mais diversas tecnologias, mantido pela comunidade e para a comunidade.](http://awesome-br.com)
 - [Which Programming Languages Should You Learn in 2018?](https://usersnap.com/blog/programming-languages-2018/)
-- https://pt.slideshare.net/AndrJusti/presentations
 - [Java versus C# .NET Core fastest programs](https://benchmarksgame-team.pages.debian.net/benchmarksgame/faster/java-csharpcore.html)
 - [Building a Programming Language Pt. 1](https://www.drew.ltd/blog/posts/2020-7-18.html)
 - [Building a Programming Language Pt. 2](https://www.drew.ltd/blog/posts/2020-7-24.html)
