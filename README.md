@@ -249,6 +249,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Combinador de ponto fixo (Y Combinator)
 - [The Y combinator or how to implement recursion in a language that doesn't support it](https://deniskyashif.com/on-recursive-functions/)
 - [Combinador de ponto fixo - Wikipedia](https://pt.wikipedia.org/wiki/Combinador_de_ponto_fixo)
+- [The Y Combinator explained with JavaScript](http://kestas.kuliukas.com/YCombinatorExplained/)
 - [The Simple Essence of the Y Combinator (Explained in Python)](https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html)
 
 ## Programação orientada a objetos
