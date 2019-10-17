@@ -373,5 +373,6 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Git
 - [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+- [GIT FOR DUMMIES-A BEGINNER’S GUIDE FROM A BEGINNER](https://ahsensaeed.com/getting-started-git-bash/)
 
 ΛΘΧΙΛΡΖ
