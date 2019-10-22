@@ -81,6 +81,9 @@
 - [Greedy Algorithms](https://skerritt.blog/greedy-algorithms/)
 - [A Primer on Search Algorithms](https://skerritt.blog/a-primer-on-search-algorithms/)
 - [A Detailed Explanation of Abstraction in Software Development](https://thevaluable.dev/abstraction_software_development/)
+- [Data Structures Part 1: Bulk Data](https://ourmachinery.com/post/data-structures-part-1-bulk-data/)
+- [Data Structures Part 2: Indices](https://ourmachinery.com/post/data-structures-part-2-indices/)
+- [Data Structures Part 3: Arrays of arrays](https://ourmachinery.com/post/data-structures-part-3-arrays-of-arrays/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
