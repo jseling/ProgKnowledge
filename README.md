@@ -319,6 +319,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - http://www.dcc.ufrj.br/~fabiom/comp20112/
 - https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_Teoria_dos_Compiladores/An%C3%A1lise_L%C3%A9xica
 - http://www.ic.unicamp.br/~sandro/cursos/mc910/slides/
+- [Building Recursive Descent Parsers: The Definitive Guide](https://www.booleanworld.com/building-recursive-descent-parsers-definitive-guide/)
 
 ## Extenso
 - https://torry.net/quicksearchd.php?String=NumWords&Title=Yes
