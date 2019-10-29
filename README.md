@@ -17,12 +17,12 @@
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [A Smart Programmer Understands The Problems Worth Fixing](https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943)
 
-## FreeBooks
+## :book:FreeBooks
 - [Oreilly](https://www.oreilly.com/programming/free/)
 - [Packt Pub](https://www.packtpub.com/packt/offers/free-learning)
-- [Programming Notes for Professionals books](https://downloads.goalkicker.com/)
-- :book:[Elements of Programming: Decomposing programs into a system of algorithmic components](http://elementsofprogramming.com/)
-- :book:[Inside the Machine: Hardware](https://dev.to/taillogs/the-best-book-to-read-as-a-developer-1h4m)
+- [Programming Notes for Professionals books (Old stack overflow documentation)](https://downloads.goalkicker.com/)
+- [Elements of Programming: Decomposing programs into a system of algorithmic components](http://elementsofprogramming.com/)
+- [Inside the Machine: Hardware](https://dev.to/taillogs/the-best-book-to-read-as-a-developer-1h4m)
 
 ## Linguagens
 - [Comparação entre C# e Java](https://imasters.com.br/dotnet/net-comparacao-dos-principais-recursos-entre-c-e-java)
