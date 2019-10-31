@@ -339,6 +339,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Autenticação
 - [How We Solved Authentication and Authorization in Our Microservice Architecture](https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6)
 - [Salted Password Hashing - Doing it Right](https://www.codeproject.com/Articles/704865/Salted-Password-Hashing-Doing-it-Right)
+- [Token vs Session Authentication](https://www.codespot.org/token-vs-session-authentication/)
 
 ## IDE
 - [Hoje irei apresentar o VS Code](https://medium.com/@programadriano/hoje-irei-apresentar-o-vs-code-visual-studio-code-para-quem-ainda-n%C3%A3o-teve-contato-com-ele-6a0d6bd3baec)
