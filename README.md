@@ -232,6 +232,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 #### Observer
 - [Design Patterns — A quick guide to Observer pattern.](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2)
 
+#### Strategy
+- [A deep dive into the Strategy Design Pattern](https://medium.com/@animeshgaitonde/a-deep-dive-into-the-strategy-design-pattern-5723eb3937b4)
+
 ### Programação
 - [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
