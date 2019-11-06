@@ -326,6 +326,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - http://www.ic.unicamp.br/~sandro/cursos/mc910/slides/
 - [Building Recursive Descent Parsers: The Definitive Guide](https://www.booleanworld.com/building-recursive-descent-parsers-definitive-guide/)
 
+## Base64
+- [Base64 encoding and decoding at almost the speed of a memory copy](https://arxiv.org/abs/1910.05109)
+
 ## Extenso
 - https://torry.net/quicksearchd.php?String=NumWords&Title=Yes
 - http://www.migalhas.com.br/Gramatigalhas/10,MI30427,91041-Hum
