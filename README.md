@@ -263,6 +263,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Favor Composition Over Inheritance?](http://pling.jondgoodwin.com/post/favor-composition-over-inheritance/)
 - [Object-Oriented Programming — The Trillion Dollar Disaster](https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7)
 - [How language features affect OO design](https://medium.com/ingeniouslysimple/how-language-features-affect-oo-design-237cfc850752)
+- [Object Oriented Programming - how to avoid duplication in processes that differ slightly depending on a variable
+](https://stackoverflow.com/questions/58764811/object-oriented-programming-how-to-avoid-duplication-in-processes-that-differ)
 
 ## Programação funcional
 - [Inventing Monads](https://blog.kabir.sh/posts/inventing-monads.html)
