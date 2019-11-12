@@ -392,6 +392,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Git
 - [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 - [GIT FOR DUMMIES-A BEGINNER’S GUIDE FROM A BEGINNER](https://ahsensaeed.com/getting-started-git-bash/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Data store files (JSON, XML, etc...)
 - [When XML beats JSON: UI layouts](https://hyperview.org/blog/2019/01/16/when-xml-beats-json-1)
