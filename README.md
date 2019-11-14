@@ -288,6 +288,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Functional programming solutions for familiar problems](https://github.com/ashwinbhaskar/functional-way)
 - [Monads as a Programming Pattern](https://samgrayson.me/2019-08-06-monads-as-a-programming-pattern/)
 - [F# For C# Developers](https://www.c-sharpcorner.com/article/easy-way-to-become-an-f-sharp-programmer-for-c-sharp-developers/)
+- [You Can Explain Functional Programming Using Emojis](https://ycombinator.chibicode.com/functional-programming-emojis)
 
 ## Opiniões
 - [O Pragmatismo Desmistificado: como a filosofia pragmática pode nos posicionar melhor no mundo](https://medium.com/software-zen/o-pragmatismo-desmistificado-como-a-filosofia-pragm%C3%A1tica-pode-nos-ajudar-a-nos-posicionarmos-no-d6db3c3e0f4c)
