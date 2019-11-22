@@ -172,6 +172,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## YAGNI
  - [Yagni - Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
  - [YAGNI - You ain't gonna need it](https://deviq.com/yagni/)
+ - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity/)
  
 ## KISS
  - [KISS for Reducing Tech Debt](https://dzone.com/articles/kiss-for-reducing-tech-debt)
