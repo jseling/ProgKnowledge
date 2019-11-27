@@ -268,6 +268,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [How language features affect OO design](https://medium.com/ingeniouslysimple/how-language-features-affect-oo-design-237cfc850752)
 - [Object Oriented Programming - how to avoid duplication in processes that differ slightly depending on a variable
 ](https://stackoverflow.com/questions/58764811/object-oriented-programming-how-to-avoid-duplication-in-processes-that-differ)
+- [Mastering OOP: A Practical Guide To Inheritance, Interfaces, And Abstract Classes](https://www.smashingmagazine.com/2019/11/guide-oop-inheritance-interfaces-abstract-classes/)
 
 ## Programação funcional
 - [Inventing Monads](https://blog.kabir.sh/posts/inventing-monads.html)
