@@ -183,6 +183,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Patterns
 
+### Frameworks
+- :star:[Framework Patterns](https://blog.startifact.com/posts/framework-patterns.html)
+
 ### Architecture
 - https://www.link-intersystems.com/blog/2011/10/01/anemic-vs-rich-domain-models/
 - https://martinfowler.com/bliki/AnemicDomainModel.html
