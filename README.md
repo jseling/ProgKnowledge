@@ -412,6 +412,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [How to explain git in simple words?](https://smusamashah.github.io/blog/2017/10/14/explain-git-in-simple-words)
 - [Git e Github - Do clone ao pull request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
+- :star:[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [git — comandos que você precisa conhecer](https://medium.com/@devmasterteam/git-comandos-que-voc%C3%AA-precisa-conhecer-67bbc7b44864)
 
 ## Data store files (JSON, XML, etc...)
 - [When XML beats JSON: UI layouts](https://hyperview.org/blog/2019/01/16/when-xml-beats-json-1)
