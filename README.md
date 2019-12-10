@@ -357,6 +357,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Thoughts on Arbitrary Pagination](https://blog.seantheprogrammer.com/thoughts-on-arbitrary-pagination)
 - [Reddit: Thoughts on Arbitrary Pagination](https://en.reddit.com/r/programming/comments/d62bk4/thoughts_on_arbitrary_pagination/)
 
+## Usabilidade
+- [Things end users care about but programmers don't](https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/)
+
 ## Autenticação
 - [How We Solved Authentication and Authorization in Our Microservice Architecture](https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6)
 - [Salted Password Hashing - Doing it Right](https://www.codeproject.com/Articles/704865/Salted-Password-Hashing-Doing-it-Right)
