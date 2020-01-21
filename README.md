@@ -54,6 +54,7 @@
 - [Martin Fowler - TechnicalDebtQuadrant](https://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 - [Stop Calling it Bad Code](https://blog.pragmaticengineer.com/bad-code/)
 - [Code is clean summary](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+- [What I learned as a developer from accidents in space](https://evilmartians.com/chronicles/what-i-learned-as-a-developer-from-accidents-in-space)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
