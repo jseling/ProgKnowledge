@@ -119,6 +119,9 @@
 - [Don't Measure Unit Test Code Coverage](https://dzone.com/articles/dont-measure-unit-test-code-coverage)
 - [Test-Driven Development is not about tests](https://lucasfcosta.com/2018/10/18/TDD-is-not-about-tests.html)
 
+### Legacy Code
+- [3 steps to add tests on existing code when you have short deadlines](https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/)
+
 ### TDD Humble Object
 Uma view serve apenas para mostrar informações ao usuário e/ou receber instruções deste. Input/Output, nada de processamento. Todo processamento/lógica que interage com a view deve ficar em classes separadas, a interação entre estes deve ser através de parâmetros em funções tipo "CarregarUsuarios(AUsuarioView)", assim esse objeto poderá ser testado através de um mock da view "CarregarUsuario(AUsuarioViewMock)". Essa view desacoplada do processamento/lógica é chamada de "Humble dialog" no padrão humble objeto. 
 * Este padrão é basicamente o uso do SRP do SOLID após ser devidamente esclarecida a responsabilidade da view (input/output com o usuário)?
@@ -418,6 +421,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Git e Github - Do clone ao pull request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/)
 - :star:[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [git — comandos que você precisa conhecer](https://medium.com/@devmasterteam/git-comandos-que-voc%C3%AA-precisa-conhecer-67bbc7b44864)
+- [Git Workflow](https://blog.soshace.com/understanding-the-git-workflow/)
 
 ## Data store files (JSON, XML, etc...)
 - [When XML beats JSON: UI layouts](https://hyperview.org/blog/2019/01/16/when-xml-beats-json-1)
