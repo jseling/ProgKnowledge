@@ -120,6 +120,10 @@
 - [Don't Measure Unit Test Code Coverage](https://dzone.com/articles/dont-measure-unit-test-code-coverage)
 - [Test-Driven Development is not about tests](https://lucasfcosta.com/2018/10/18/TDD-is-not-about-tests.html)
 - :star:[Exploring 6,000 Unit Tests](https://davescommuteblog.home.blog/2020/01/19/exploring-6000-unit-tests/)
+- [Writing Valuable Tests](https://medium.com/@cjnevin/writing-valuable-tests-591f5e4d2895)
+- [The Anatomy of Good Unit Testing](https://dzone.com/articles/the-anatomy-of-good-unit-testing)
+- [The Complete Unit Testing Collection: Tutorials and Frameworks](https://dzone.com/articles/the-complete-unit-testing-collection)
+
 
 ### Legacy Code
 - [3 steps to add tests on existing code when you have short deadlines](https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/)
@@ -390,6 +394,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Top 50 Algorithms and Coding Interview Questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 ## Performance
+- [Use Big O Notation to Design Better Algorithms](https://medium.com/better-programming/use-big-o-notation-to-design-better-algorithms-9e5769c2e47b)
 - [Challenge your performance intuition with C++ operators](http://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_operators.html)
 
 ## Concorrência
