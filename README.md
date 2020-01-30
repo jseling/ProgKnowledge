@@ -119,6 +119,7 @@
 - [The Myth Of 100% Code Coverage](https://itnext.io/the-myth-of-100-code-coverage-c7d4c789700d)
 - [Don't Measure Unit Test Code Coverage](https://dzone.com/articles/dont-measure-unit-test-code-coverage)
 - [Test-Driven Development is not about tests](https://lucasfcosta.com/2018/10/18/TDD-is-not-about-tests.html)
+- :star:[Exploring 6,000 Unit Tests](https://davescommuteblog.home.blog/2020/01/19/exploring-6000-unit-tests/)
 
 ### Legacy Code
 - [3 steps to add tests on existing code when you have short deadlines](https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/)
