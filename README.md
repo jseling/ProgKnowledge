@@ -238,6 +238,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 #### Singleton
 - [Design Patterns — A quick guide to Singleton pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-singleton-pattern-60732ed43956)
+- [Singleton Design Pattern and hidden things](https://medium.com/@pdminh0410/singleton-design-pattern-and-hidden-things-95ab2ba4cfa1)
 
 #### Abstract Factory
 - [Design Patterns — A quick guide to Abstract Factory.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-abstract-factory-ab500dc12e6c)
