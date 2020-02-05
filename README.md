@@ -333,6 +333,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [What Developers Should Actually Learn In College](https://www.cdevn.com/what-developers-should-actually-learn-in-college/)
 - :star:[How to be a Good Mentor to Junior Developers](https://levelup.gitconnected.com/how-to-be-a-good-mentor-to-junior-developers-3a94b7981190)
 - [Libraries vs. Frameworks — What’s the Difference?](https://medium.com/better-programming/libraries-vs-frameworks-whats-the-difference-5f28c53dcffe)
+- [What’s SAP?](https://retool.com/blog/erp-for-engineers/)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
