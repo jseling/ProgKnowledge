@@ -271,6 +271,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc)
 - [Alan Kay and Missing Messages](https://ovid.github.io/articles/alan-kay-and-missing-messages-a-follow-up.html)
 - [REDDIT: Alan Kay and Missing Messages](https://en.reddit.com/r/programming/comments/brly02/how_to_handle_unanswered_messages_a_follow_up_to/)
+- [The simple Math every developer should know](https://medium.com/@boltmick1/the-simple-math-every-developer-should-know-3f9b25446550)
 
 ## Combinador de ponto fixo (Y Combinator)
 - [The Y combinator or how to implement recursion in a language that doesn't support it](https://deniskyashif.com/on-recursive-functions/)
