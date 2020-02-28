@@ -314,6 +314,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[You don't (may not) need loops](https://github.com/you-dont-need/You-Dont-Need-Loops/blob/master/readme.md#you-dont-may-not-need-loops-loop)
 - [Explaining Monoids to the 10 years old me](https://hackdoor.io/articles/eBN39QAv/explaining-monoids-to-the-10-years-old-me)
 - [Lambda Calculus in JavaScript?](https://hackdoor.io/articles/q9NY0JWo/lambda-calculus-in-javascript)
+- [Demystifying C++ lambdas](https://blog.feabhas.com/2014/03/demystifying-c-lambdas/)
 
 ## Opiniões
 - [O Pragmatismo Desmistificado: como a filosofia pragmática pode nos posicionar melhor no mundo](https://medium.com/software-zen/o-pragmatismo-desmistificado-como-a-filosofia-pragm%C3%A1tica-pode-nos-ajudar-a-nos-posicionarmos-no-d6db3c3e0f4c)
