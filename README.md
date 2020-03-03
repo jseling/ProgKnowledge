@@ -57,7 +57,7 @@
 - [What I learned as a developer from accidents in space](https://evilmartians.com/chronicles/what-i-learned-as-a-developer-from-accidents-in-space)
 - :star:[The Shapes of Code](https://www.fluentcpp.com/2020/01/14/the-shapes-of-code/)
 - [The Bumpy Road Code Smell: Measuring Code Complexity by its Shape and Distribution](https://empear.com/blog/bumpy-road-code-complexity-in-context/)
-
+- [Simple Systems Have Less Downtime](https://www.gkogan.co/blog/simple-systems/?r=0)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
