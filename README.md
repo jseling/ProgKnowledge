@@ -58,6 +58,7 @@
 - :star:[The Shapes of Code](https://www.fluentcpp.com/2020/01/14/the-shapes-of-code/)
 - [The Bumpy Road Code Smell: Measuring Code Complexity by its Shape and Distribution](https://empear.com/blog/bumpy-road-code-complexity-in-context/)
 - [Simple Systems Have Less Downtime](https://www.gkogan.co/blog/simple-systems/?r=0)
+- [Don't order events by timestamp](https://caolan.uk/articles/time-disorder/)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
