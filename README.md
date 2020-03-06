@@ -229,6 +229,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Seus controllers devem ser leves.](http://gabsferreira.com/seus-controllers-devem-ser-leves/)
 
 ### Design
+- :star:[Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans)
 - [From design patterns to category theory](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 - https://sourcemaking.com/design_patterns
 - https://stackoverflow.com/tags/design-patterns/info
