@@ -408,6 +408,10 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Use Big O Notation to Design Better Algorithms](https://medium.com/better-programming/use-big-o-notation-to-design-better-algorithms-9e5769c2e47b)
 - [Challenge your performance intuition with C++ operators](http://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_operators.html)
 
+## BigO
+- [Big-O Notation in One Picture](https://twitter.com/kamranahmedse/status/1235708842610212864)
+![Big-O Notation in One Picture](bigO.jpeg)
+
 ## Concorrência
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
 
