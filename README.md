@@ -363,6 +363,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Building Recursive Descent Parsers: The Definitive Guide](https://www.booleanworld.com/building-recursive-descent-parsers-definitive-guide/)
 - :star::book:[Crafting interpreters](https://craftinginterpreters.com/contents.html)
 - [Building a Parser](https://chelseatroy.com/2019/11/11/building-a-parser/)
+- [Understanding Parser Combinators](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
 
 ## Base64
 - [Base64 encoding and decoding at almost the speed of a memory copy](https://arxiv.org/abs/1910.05109)
