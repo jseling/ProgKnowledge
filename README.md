@@ -33,6 +33,7 @@
 - [Building a Programming Language Pt. 2](https://www.drew.ltd/blog/posts/2020-7-24.html)
 - [Why Go and not Rust?](https://kristoff.it/blog/why-go-and-not-rust/)
 - [Programming languages: Zig analysis](https://pixelherodev.github.io/2019/10/31/programming-languages.html)
+- :star:[How I Start](https://howistart.org/)
 
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
