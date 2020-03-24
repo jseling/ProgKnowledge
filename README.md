@@ -420,6 +420,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Concorrência
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
+- [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
 
 ## Programação dinâmica
 - [Geeks - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
