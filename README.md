@@ -189,6 +189,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
  - [Yagni - Martin Fowler](https://martinfowler.com/bliki/Yagni.html)
  - [YAGNI - You ain't gonna need it](https://deviq.com/yagni/)
  - [The Danger of “Simplicity”](https://asthasr.github.io/posts/danger-of-simplicity/)
+ - [YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
  
 ## KISS
  - [KISS for Reducing Tech Debt](https://dzone.com/articles/kiss-for-reducing-tech-debt)
