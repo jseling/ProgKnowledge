@@ -94,6 +94,7 @@
 - [Data Structures Part 3: Arrays of arrays](https://ourmachinery.com/post/data-structures-part-3-arrays-of-arrays/)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [How my software development has changed in the last 10 years](https://dev.tasubo.com/2020/02/how-my-software-development-has-changed-in-the-last-10-year-part-2.html)
+- [How to Handle Timezones and Synchronize Your Software with International Customers](https://www.freecodecamp.org/news/synchronize-your-software-with-international-customers/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
