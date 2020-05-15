@@ -62,6 +62,7 @@
 - [Simple Systems Have Less Downtime](https://www.gkogan.co/blog/simple-systems/?r=0)
 - [Don't order events by timestamp](https://caolan.uk/articles/time-disorder/)
 - [8 developer habits that help you progress](https://www.jesuisundev.com/en/8-developer-habits-that-help-you-progress/)
+- [use ENUMs. not BOOLEANS](https://medium.com/better-programming/dont-use-boolean-arguments-use-enums-c7cd7ab1876a)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
