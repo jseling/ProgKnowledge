@@ -131,7 +131,8 @@
 - [Writing Valuable Tests](https://medium.com/@cjnevin/writing-valuable-tests-591f5e4d2895)
 - [The Anatomy of Good Unit Testing](https://dzone.com/articles/the-anatomy-of-good-unit-testing)
 - [The Complete Unit Testing Collection: Tutorials and Frameworks](https://dzone.com/articles/the-complete-unit-testing-collection)
-
+- [How to Unit Test an Abstract Class](https://enterprisecraftsmanship.com/posts/how-to-unit-test-an-abstract-class/)
+- [Unit testing private methods](https://enterprisecraftsmanship.com/posts/unit-testing-private-methods/)
 
 ### Legacy Code
 - [3 steps to add tests on existing code when you have short deadlines](https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/)
