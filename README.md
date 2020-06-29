@@ -333,6 +333,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 
 ## Opiniões
+- [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [O Pragmatismo Desmistificado: como a filosofia pragmática pode nos posicionar melhor no mundo](https://medium.com/software-zen/o-pragmatismo-desmistificado-como-a-filosofia-pragm%C3%A1tica-pode-nos-ajudar-a-nos-posicionarmos-no-d6db3c3e0f4c)
 - [Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/)
 - [THE FALLACY OF PREMATURE OPTIMIZATION](https://ubiquity.acm.org/article.cfm?id=1513451)
