@@ -380,6 +380,10 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Understanding Parser Combinators](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
 - :star:[Compiling a Functional Language Using C++](https://danilafe.com/tags/compilers/)
 
+### JIT
+- [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
+- [How JIT Compilers are Implemented and Fast: Julia, Pypy, LuaJIT, Graal and More](https://carolchen.me/blog/jits-impls/)
+
 ## Base64
 - [Base64 encoding and decoding at almost the speed of a memory copy](https://arxiv.org/abs/1910.05109)
 
