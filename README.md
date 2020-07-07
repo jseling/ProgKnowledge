@@ -225,6 +225,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [What’s an API?](https://hackernoon.com/what-is-an-api-26668ca8a294)
 - [The Troublesome Active Record Pattern](http://calpaterson.com/activerecord.html)
 - [Architecture characteristics](https://sergiuoltean.com/2020/06/26/architecture-characteristics/)
+- [Replacing Throwing Exceptions with Notification in Validations](https://martinfowler.com/articles/replaceThrowWithNotification.html)
 
 ### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
