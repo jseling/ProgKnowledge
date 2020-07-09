@@ -133,6 +133,7 @@
 - [The Complete Unit Testing Collection: Tutorials and Frameworks](https://dzone.com/articles/the-complete-unit-testing-collection)
 - [How to Unit Test an Abstract Class](https://enterprisecraftsmanship.com/posts/how-to-unit-test-an-abstract-class/)
 - [Unit testing private methods](https://enterprisecraftsmanship.com/posts/unit-testing-private-methods/)
+- [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
 
 ### Legacy Code
 - [3 steps to add tests on existing code when you have short deadlines](https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/)
