@@ -97,6 +97,7 @@
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [How my software development has changed in the last 10 years](https://dev.tasubo.com/2020/02/how-my-software-development-has-changed-in-the-last-10-year-part-2.html)
 - [How to Handle Timezones and Synchronize Your Software with International Customers](https://www.freecodecamp.org/news/synchronize-your-software-with-international-customers/)
+- [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
