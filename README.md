@@ -432,6 +432,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Performance
 - [Use Big O Notation to Design Better Algorithms](https://medium.com/better-programming/use-big-o-notation-to-design-better-algorithms-9e5769c2e47b)
 - [Challenge your performance intuition with C++ operators](http://wordsandbuttons.online/challenge_your_performance_intuition_with_cpp_operators.html)
+- [Improving performance with SIMD intrinsics in three use cases](https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics-in-three-use-cases/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
 
 ## BigO
 - [Big-O Notation in One Picture](https://twitter.com/kamranahmedse/status/1235708842610212864)
