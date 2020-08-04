@@ -1,5 +1,6 @@
-# ProgKnowledge
-[Wiki desta página](https://github.com/jersonSeling/ProgKnowledge/wiki)
+# Programming Knowledge
+
+[Programming Knowledge Wiki](https://github.com/jersonSeling/ProgKnowledge/wiki)
 
 - [A guide on how to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
 - [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
