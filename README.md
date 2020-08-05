@@ -474,6 +474,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - [git — comandos que você precisa conhecer](https://medium.com/@devmasterteam/git-comandos-que-voc%C3%AA-precisa-conhecer-67bbc7b44864)
 - [Git Workflow](https://blog.soshace.com/understanding-the-git-workflow/)
+- :star:[GITCommands:Definitive Guide (Best in 2020)](https://acompiler.com/git-commands/)
 
 ## Data store files (JSON, XML, etc...)
 - [When XML beats JSON: UI layouts](https://hyperview.org/blog/2019/01/16/when-xml-beats-json-1)
