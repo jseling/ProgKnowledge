@@ -210,6 +210,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Inversion of Control Containers and the Dependency Injection pattern](https://www.martinfowler.com/articles/injection.html)
 - [What Is Dependency Injection?](https://medium.com/better-programming/what-is-dependency-injection-b2671b1ea90a)
 - [The 5 Principles of Dependency Injection](https://medium.com/better-programming/five-principles-of-dependency-injection-5bd0cca9cb04)
+- [The 3 Types of Dependency Injection](https://medium.com/better-programming/the-3-types-of-dependency-injection-141b40d2cebc)
+- [The 6 Benefits of Dependency Injection](https://medium.com/better-programming/the-6-benefits-of-dependency-injection-7802b207ec69)
 
 ## Patterns
 
