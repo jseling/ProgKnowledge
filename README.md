@@ -169,6 +169,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Decouple Your Javascript Using Event Driven Programming](https://lukewood.dev/posts/refactor_bulletz/)
 
 ## SOLID
+- [The Single Responsibility Principle Revisited](https://thevaluable.dev/single-responsibility-principle-revisited/)
 - [Writing SOLID Code: Intro](https://www.anglesandtypes.io/archives/169)
 - [Writing SOLID Code: SRP](https://www.anglesandtypes.io/archives/174)
 - [Writing SOLID Code: OCP](https://www.anglesandtypes.io/archives/177)
