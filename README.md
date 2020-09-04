@@ -343,6 +343,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Lambda Calculus in JavaScript?](https://hackdoor.io/articles/q9NY0JWo/lambda-calculus-in-javascript)
 - [Demystifying C++ lambdas](https://blog.feabhas.com/2014/03/demystifying-c-lambdas/)
 - :star:[Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
+- :star:[Inventing Monads](https://stopa.io/post/247)
 
 ## Opiniões
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
