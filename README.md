@@ -100,6 +100,7 @@
 - [How to Handle Timezones and Synchronize Your Software with International Customers](https://www.freecodecamp.org/news/synchronize-your-software-with-international-customers/)
 - [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 - [Computation graphs and graph computation](http://breandan.net/2020/06/30/graph-computation/)
+- [Recursion for Coding Interviews: The Ultimate Guide](https://www.byte-by-byte.com/recursion/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
