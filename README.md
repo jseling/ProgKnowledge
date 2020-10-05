@@ -346,6 +346,12 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 - :star:[Inventing Monads](https://stopa.io/post/247)
 
+## Programação orientada a dados
+- [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
+
+## Programação orientada a atores
+- [Objects vs. Actors](https://hackernoon.com/objects-vs-actors-6l1g3ex4)
+
 ## Opiniões
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [O Pragmatismo Desmistificado: como a filosofia pragmática pode nos posicionar melhor no mundo](https://medium.com/software-zen/o-pragmatismo-desmistificado-como-a-filosofia-pragm%C3%A1tica-pode-nos-ajudar-a-nos-posicionarmos-no-d6db3c3e0f4c)
