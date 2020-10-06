@@ -346,6 +346,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Demystifying C++ lambdas](https://blog.feabhas.com/2014/03/demystifying-c-lambdas/)
 - :star:[Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 - :star:[Inventing Monads](https://stopa.io/post/247)
+- [Introduction to functional programming with C#](https://medium.com/@naveenrtr/introduction-to-functional-programming-with-c-b167f15221e1)
 
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
