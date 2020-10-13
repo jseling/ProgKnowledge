@@ -318,6 +318,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Mastering OOP: A Practical Guide To Inheritance, Interfaces, And Abstract Classes](https://www.smashingmagazine.com/2019/11/guide-oop-inheritance-interfaces-abstract-classes/)
 
 ## Programação funcional
+- [Learning Functional Programming With Scala](https://dzone.com/articles/learning-functional-programming-withnbspscala)
 - [Inventing Monads](https://blog.kabir.sh/posts/inventing-monads.html)
 - [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 - [Começando com Programação Funcional.](https://medium.com/trainingcenter/come%C3%A7ando-com-programa%C3%A7%C3%A3o-funcional-de389de2b8fe)
