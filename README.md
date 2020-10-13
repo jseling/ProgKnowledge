@@ -39,6 +39,7 @@
 
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
+- [Edge Case Poisoning](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 - [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
 - [Nine Steps of Learning by Refactoring](https://www.yegor256.com/2018/04/10/learning-by-refactoring.html)
 - [Antipatterns - DevIQ](https://deviq.com/tag/antipattern/)
