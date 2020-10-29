@@ -6,6 +6,7 @@
 - [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 - [Awesome list of awesome lists](https://wreeto.com/public/d8466333-6aee-4c65-a641-b901bc1e7421)
 - [65 Key Takeaways from "The Pragmatic Programmer: From Journeyman to Master"](https://hackernoon.com/65-key-takeaways-from-the-pragmatic-programmer-from-journeyman-to-master-1b4n32cy)
+- :star:[Developer Roadmaps](https://roadmap.sh/)
 
 ## Blogs & sites sources
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
