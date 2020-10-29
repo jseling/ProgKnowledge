@@ -18,6 +18,7 @@
 - [the Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [A Smart Programmer Understands The Problems Worth Fixing](https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943)
+- [The Grand Unified Theory of Software Architecture (Opinion)](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
 
 ## :book:FreeBooks
 - [Oreilly](https://www.oreilly.com/programming/free/)
