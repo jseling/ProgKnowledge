@@ -476,6 +476,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [A graphical introduction to dynamic programming](https://medium.com/@avik.das/a-graphical-introduction-to-dynamic-programming-2e981fa7ca2?sk=37cd14642cf1a83eb0bb33d231442837)
 - [What Is Dynamic Programming With Python Examples](https://skerritt.blog/dynamic-programming/)
 - [Dynamic Programming: An Introduction](https://dzone.com/articles/dynamic-programming)
+- [All You Need to Know About Dynamic Programming](https://hackernoon.com/all-you-need-to-know-about-dynamic-programming-0tj3e5l)
 
 ## Expressões Regulares
 - [Online Tester 101](https://regex101.com/)
