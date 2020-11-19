@@ -356,6 +356,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[Inventing Monads](https://stopa.io/post/247)
 - [Introduction to functional programming with C#](https://medium.com/@naveenrtr/introduction-to-functional-programming-with-c-b167f15221e1)
 - [Fun with Lambda Calculus](https://stopa.io/post/263)
+- [What is Functional Programming? A Beginner's JavaScript Guide](https://www.freecodecamp.org/news/functional-programming-in-javascript/)
+- [My first-time pure functional programming](https://www.sandromaglione.com/2020/11/07/first-time-pure-functional-programming/)
 
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
