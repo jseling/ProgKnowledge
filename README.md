@@ -39,6 +39,8 @@
 - [Programming languages: Zig analysis](https://pixelherodev.github.io/2019/10/31/programming-languages.html)
 - :star:[How I Start](https://howistart.org/)
 - [Multi-Paradigm Languages](https://www.oreilly.com/radar/multi-paradigm-languages/)
+- [Programming Language Evolution](https://elizarov.medium.com/programming-language-evolution-ab7d7d2b0d0b)
+- [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic01.html)
 
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
@@ -360,6 +362,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [What is Functional Programming? A Beginner's JavaScript Guide](https://www.freecodecamp.org/news/functional-programming-in-javascript/)
 - [My first-time pure functional programming](https://www.sandromaglione.com/2020/11/07/first-time-pure-functional-programming/)
 - [Recursão de cauda — ou como não estourar a pilha](https://blog.cisne.dev/recursao-de-causa-ou-como-nao-estourar-a-pilha/)
+- [FP for sceptics](https://last-ent.com/categories/fp-for-sceptics/)
 
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
