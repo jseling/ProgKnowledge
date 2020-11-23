@@ -38,6 +38,7 @@
 - [Why Go and not Rust?](https://kristoff.it/blog/why-go-and-not-rust/)
 - [Programming languages: Zig analysis](https://pixelherodev.github.io/2019/10/31/programming-languages.html)
 - :star:[How I Start](https://howistart.org/)
+- [Multi-Paradigm Languages](https://www.oreilly.com/radar/multi-paradigm-languages/)
 
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
