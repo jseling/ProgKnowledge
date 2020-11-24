@@ -78,6 +78,7 @@
 - [How to Find the Stinky Parts of Your Code (Part I)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-i-xqz3evd)
 - [How to Find the Stinky Parts of Your Code (Part II)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-ii-o96s3wl4)
 - [How to Find the Stinky Parts of Your Code (Part III)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-iii-t7h3zkv)
+- [Anti-patterns You Should Avoid in Your Code](https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
