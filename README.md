@@ -459,6 +459,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Computer Vision (AI): Object Detection and Segmentation with Mask R-CNN](https://www.youtube.com/watch?v=akK5ui-vel0&feature=youtu.be)
 - [Neural Networks to Production, From an Engineer](https://austingwalters.com/neural-networks-to-production-from-an-engineer/)
 - :star:[NanoNeuron: 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn".](https://github.com/trekhleb/nano-neuron)
+- :star:[The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+- [You might not need machine learning: using polynomials](https://nullprogram.com/blog/2020/11/24/)
+- :star::clacket:[Deep learning playlist - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
@@ -477,6 +480,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## Concorrência
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
+- [What went wrong with the libdispatch. A tale of caution for the future of concurrency.](https://tclementdev.com/posts/what_went_wrong_with_the_libdispatch.html)
 
 ## Programação dinâmica
 - [Geeks - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
