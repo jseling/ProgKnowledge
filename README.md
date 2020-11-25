@@ -461,7 +461,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[NanoNeuron: 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn".](https://github.com/trekhleb/nano-neuron)
 - :star:[The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 - [You might not need machine learning: using polynomials](https://nullprogram.com/blog/2020/11/24/)
-- :star::clacket:[Deep learning playlist - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
+- :star::clapper:[Deep learning playlist - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
