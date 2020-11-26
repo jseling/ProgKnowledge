@@ -462,6 +462,10 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 - [You might not need machine learning: using polynomials](https://nullprogram.com/blog/2020/11/24/)
 - :star::clapper:[Deep learning playlist - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
+- [Deep Learning Neural Networks Explained in Plain English](https://www.freecodecamp.org/news/deep-learning-neural-networks-explained-in-plain-english/)
+- [A Quick Introduction to Vanilla Neural Networks](https://blog.insightdatascience.com/a-quick-introduction-to-vanilla-neural-networks-b0998c6216a1)
+- [The Complete Guide to Artificial Neural Networks: Concepts and Models](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
+- [Neural Networks in Plain English (Part 1)](https://medium.com/@ankit_rv/neural-networks-in-plain-english-part-1-9c239e575b41)
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
