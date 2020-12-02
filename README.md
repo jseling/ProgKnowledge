@@ -467,6 +467,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The Complete Guide to Artificial Neural Networks: Concepts and Models](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
 - [Neural Networks in Plain English (Part 1)](https://medium.com/@ankit_rv/neural-networks-in-plain-english-part-1-9c239e575b41)
 - [What is Deep Learning?](https://towardsdatascience.com/what-is-deep-learning-33a32858ea6d)
+- [Publication-ready NN-architecture schematics.](https://alexlenail.me/NN-SVG/index.html)
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
