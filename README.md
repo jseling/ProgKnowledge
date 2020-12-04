@@ -259,6 +259,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://www.programcreek.com/2009/01/the-steps-involved-in-building-a-swing-gui-application/
 - https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
 - https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html#GUIBuider
+- [CLI: Command Line Interface Guidelines](https://clig.dev/)
 
 ### MVC
 - [Seus controllers devem ser leves.](http://gabsferreira.com/seus-controllers-devem-ser-leves/)
