@@ -369,6 +369,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [My first-time pure functional programming](https://www.sandromaglione.com/2020/11/07/first-time-pure-functional-programming/)
 - [Recursão de cauda — ou como não estourar a pilha](https://blog.cisne.dev/recursao-de-causa-ou-como-nao-estourar-a-pilha/)
 - [FP for sceptics](https://last-ent.com/categories/fp-for-sceptics/)
+- [Functional Programming From an Object-Oriented Perspective](https://medium.com/better-programming/functional-programming-from-an-object-oriented-perspective-9b47100b488a)
+- [The Difference between Functional Programming and Object-Oriented Programming](https://sdacademy.dev/difference-between-functional-programming-and-object-oriented-programming/)
 
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
