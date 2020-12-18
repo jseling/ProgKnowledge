@@ -78,6 +78,8 @@
 - [How can you do anything useful without mutable state?](https://stackoverflow.com/questions/1020653/how-can-you-do-anything-useful-without-mutable-state)
 - [IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: LOBSTERS](https://lobste.rs/s/na9m9v/if_considered_harmful_how_eradicate_95)
 - :clapper:[IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: YOUTUBE](https://www.youtube.com/watch?v=z43bmaMwagI&ab_channel=DevWeekEvents)
+- [IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: SLIDES](https://sddconf.com/brands/sdd/library/If_considered_Harmful_-_Jules_May_-_SDD2017.pdf)
+
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
