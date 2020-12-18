@@ -70,6 +70,14 @@
 - [Don't order events by timestamp](https://caolan.uk/articles/time-disorder/)
 - [8 developer habits that help you progress](https://www.jesuisundev.com/en/8-developer-habits-that-help-you-progress/)
 - [use ENUMs. not BOOLEANS](https://medium.com/better-programming/dont-use-boolean-arguments-use-enums-c7cd7ab1876a)
+- https://www.quora.com/Is-it-true-that-a-good-programmer-uses-fewer-if-conditions-than-an-amateur
+- [Yegor - Fail Fast](https://www.yegor256.com/2015/08/25/fail-fast.html)
+- [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
+- [Crash early and crash often for more reliable software](https://medium.com/@mattklein123/crash-early-and-crash-often-for-more-reliable-software-597738dd21c5)
+- [Immutable Data](http://kevinmahoney.co.uk/articles/immutable-data/)
+- [How can you do anything useful without mutable state?](https://stackoverflow.com/questions/1020653/how-can-you-do-anything-useful-without-mutable-state)
+- [IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: LOBSTERS](https://lobste.rs/s/na9m9v/if_considered_harmful_how_eradicate_95)
+- :clapper:[IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: YOUTUBE](https://www.youtube.com/watch?v=z43bmaMwagI&ab_channel=DevWeekEvents)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
@@ -236,14 +244,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ### Architecture
 - https://www.link-intersystems.com/blog/2011/10/01/anemic-vs-rich-domain-models/
 - https://martinfowler.com/bliki/AnemicDomainModel.html
-- https://www.quora.com/Is-it-true-that-a-good-programmer-uses-fewer-if-conditions-than-an-amateur
-- [Yegor - Fail Fast](https://www.yegor256.com/2015/08/25/fail-fast.html)
-- [Fail Fast](https://martinfowler.com/ieeeSoftware/failFast.pdf)
-- [Crash early and crash often for more reliable software](https://medium.com/@mattklein123/crash-early-and-crash-often-for-more-reliable-software-597738dd21c5)
 - [The Clean Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Clean Micro-service Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html)
-- [Immutable Data](http://kevinmahoney.co.uk/articles/immutable-data/)
-- [How can you do anything useful without mutable state?](https://stackoverflow.com/questions/1020653/how-can-you-do-anything-useful-without-mutable-state)
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 - [Software Architecture: the 5 Patterns You Need to Know](https://blog.ndepend.com/software-architecture-5-patterns-you-need-know/)
 - [What’s an API?](https://hackernoon.com/what-is-an-api-26668ca8a294)
