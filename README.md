@@ -20,6 +20,7 @@
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [A Smart Programmer Understands The Problems Worth Fixing](https://medium.com/@fagnerbrack/a-smart-programmer-understands-the-problems-worth-fixing-dcf15871f943)
 - [The Grand Unified Theory of Software Architecture (Opinion)](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
+- [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 
 ## :book:FreeBooks
 - [Oreilly](https://www.oreilly.com/programming/free/)
