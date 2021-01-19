@@ -80,6 +80,7 @@
 - [IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: LOBSTERS](https://lobste.rs/s/na9m9v/if_considered_harmful_how_eradicate_95)
 - :clapper:[IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: YOUTUBE](https://www.youtube.com/watch?v=z43bmaMwagI&ab_channel=DevWeekEvents)
 - [IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: SLIDES](https://sddconf.com/brands/sdd/library/If_considered_Harmful_-_Jules_May_-_SDD2017.pdf)
+- [return first](https://schneide.blog/2021/01/18/return-first/)
 
 
 ## AntiPatterns & Code Smells
