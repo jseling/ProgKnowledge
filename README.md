@@ -376,6 +376,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The Difference between Functional Programming and Object-Oriented Programming](https://sdacademy.dev/difference-between-functional-programming-and-object-oriented-programming/)
 - [Why Developers Should Look into Clojure](https://auth0.com/blog/why-developers-should-look-into-clojure/?utm_source=reddit&utm_medium=sc&utm_campaign=clojure)
 - [The visitor pattern is essentially the same thing as Church encoding](https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html)
+- :star:[The Not-So-Scary Guide to Functional Programming](https://medium.com/yld-blog/the-not-so-scary-guide-to-functional-programming-d29f0c7d065a)
 
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
