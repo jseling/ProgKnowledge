@@ -375,6 +375,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Functional Programming From an Object-Oriented Perspective](https://medium.com/better-programming/functional-programming-from-an-object-oriented-perspective-9b47100b488a)
 - [The Difference between Functional Programming and Object-Oriented Programming](https://sdacademy.dev/difference-between-functional-programming-and-object-oriented-programming/)
 - [Why Developers Should Look into Clojure](https://auth0.com/blog/why-developers-should-look-into-clojure/?utm_source=reddit&utm_medium=sc&utm_campaign=clojure)
+- [The visitor pattern is essentially the same thing as Church encoding](https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html)
 
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
@@ -480,6 +481,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Neural Networks in Plain English (Part 1)](https://medium.com/@ankit_rv/neural-networks-in-plain-english-part-1-9c239e575b41)
 - [What is Deep Learning?](https://towardsdatascience.com/what-is-deep-learning-33a32858ea6d)
 - [Publication-ready NN-architecture schematics.](https://alexlenail.me/NN-SVG/index.html)
+- [What is the activation function in neural network](https://www.becomeadeveloper.in/2021/02/what-is-activation-function-in-neural.html)
 
 ## Problemas
 - [Data structures and problems](https://www.techiedelight.com/list-of-problems/)
