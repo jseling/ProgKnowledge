@@ -123,6 +123,11 @@
 - [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 - [Computation graphs and graph computation](http://breandan.net/2020/06/30/graph-computation/)
 - [Recursion for Coding Interviews: The Ultimate Guide](https://www.byte-by-byte.com/recursion/)
+- [An Alien Dictionary - Graphs (Part 1)](https://medium.com/outco/an-alien-dictionary-690c2f48a6d4)
+- [An Overview of Networks - Graphs (Part 2)](https://medium.com/outco/an-overview-of-networks-8048753769da)
+- :star:[How to Build a Graph Data Structure - Graphs (Part 3)](https://medium.com/outco/how-to-build-a-graph-data-structure-d779d822f9b4)
+
+
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
