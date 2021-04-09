@@ -252,6 +252,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - :star:[Framework Patterns](https://blog.startifact.com/posts/framework-patterns.html)
 
 ### Architecture
+- [What event sourcing is not about](https://stitcher.io/blog/what-event-sourcing-is-not-about)
 - https://www.link-intersystems.com/blog/2011/10/01/anemic-vs-rich-domain-models/
 - https://martinfowler.com/bliki/AnemicDomainModel.html
 - [The Clean Architecture - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
