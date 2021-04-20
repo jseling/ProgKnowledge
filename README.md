@@ -91,6 +91,7 @@
 - [How to Find the Stinky Parts of Your Code (Part II)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-ii-o96s3wl4)
 - [How to Find the Stinky Parts of Your Code (Part III)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-iii-t7h3zkv)
 - [Anti-patterns You Should Avoid in Your Code](https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/)
+- [Don't POOP - The Partial/Optional Object Population Anti-Pattern](https://scotthannen.org/blog/2021/04/19/partial-optional-object-population.html)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
