@@ -512,6 +512,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
 - [What went wrong with the libdispatch. A tale of caution for the future of concurrency.](https://tclementdev.com/posts/what_went_wrong_with_the_libdispatch.html)
+- [Concurrency vs. Parallelism](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
+
 
 ## Programação dinâmica
 - [Geeks - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
