@@ -311,6 +311,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 #### Strategy
 - [A deep dive into the Strategy Design Pattern](https://medium.com/@animeshgaitonde/a-deep-dive-into-the-strategy-design-pattern-5723eb3937b4)
 
+#### Memento
+- [Memento Design Pattern](https://chamalwr.medium.com/memento-design-pattern-d9c5dad60d4e)
+
 ### Programação
 - [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
