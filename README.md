@@ -127,7 +127,7 @@
 - [An Alien Dictionary - Graphs (Part 1)](https://medium.com/outco/an-alien-dictionary-690c2f48a6d4)
 - [An Overview of Networks - Graphs (Part 2)](https://medium.com/outco/an-overview-of-networks-8048753769da)
 - :star:[How to Build a Graph Data Structure - Graphs (Part 3)](https://medium.com/outco/how-to-build-a-graph-data-structure-d779d822f9b4)
-
+- [Binary Search Algorithm](https://medium.com/enjoy-algorithm/binary-search-fast-searching-on-sorted-array-1b80b5a65574)
 
 
 ## TDD
@@ -423,6 +423,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Libraries vs. Frameworks — What’s the Difference?](https://medium.com/better-programming/libraries-vs-frameworks-whats-the-difference-5f28c53dcffe)
 - [What’s SAP?](https://retool.com/blog/erp-for-engineers/)
 - [It's probably time to stop recommending Clean Code](https://johz.bearblog.dev/book-review-philosophy-software-design/)
+- [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
