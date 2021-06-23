@@ -81,7 +81,7 @@
 - :clapper:[IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: YOUTUBE](https://www.youtube.com/watch?v=z43bmaMwagI&ab_channel=DevWeekEvents)
 - [IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: SLIDES](https://sddconf.com/brands/sdd/library/If_considered_Harmful_-_Jules_May_-_SDD2017.pdf)
 - [return first](https://schneide.blog/2021/01/18/return-first/)
-
+- [Don’t use raw loops](https://belaycpp.com/2021/06/22/dont-use-raw-loops/)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
