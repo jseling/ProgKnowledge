@@ -391,7 +391,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The visitor pattern is essentially the same thing as Church encoding](https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html)
 - :star:[The Not-So-Scary Guide to Functional Programming](https://medium.com/yld-blog/the-not-so-scary-guide-to-functional-programming-d29f0c7d065a)
 - [category-theory-illustrated](https://boris-marinov.github.io/category-theory-illustrated/04_order/)
-- 
+- [Functors and Monads For People Who Have Read Too Many "Tutorials"](http://www.jerf.org/iri/post/2958)
+
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
 
