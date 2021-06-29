@@ -217,6 +217,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [S.O.L.I.D. software class design principles](https://agilecomplexificationinverter.blogspot.com/2012/10/solid-software-class-design-principles.html)
 - [SOLID Design Principles — The Simplest Explanation.](https://medium.com/swlh/solid-design-principles-the-simplest-explanation-8df7164308f5)
 - [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+- [SOLID Coding in Python](https://towardsdatascience.com/solid-coding-in-python-1281392a6a94)
 
 ## IODA
 - [The IODA Architecture](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/29/the-ioda-architecture.aspx)
