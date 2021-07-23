@@ -429,6 +429,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [What’s SAP?](https://retool.com/blog/erp-for-engineers/)
 - [It's probably time to stop recommending Clean Code](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 - [The faster you unlearn OOP, the better for you and your software](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
+- [Confessions of a 0.8x Developer: REDDIT](https://en.reddit.com/r/programming/comments/oq68pn/confessions_of_a_08x_developer/)
+- [Confessions of a 0.8x Developer: Original](https://raddevon.com/articles/confessions-of-a-0-8x-developer/)
 
 ## Livros
 - [O Programador Pragmático. De Aprendiz a Mestre](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
