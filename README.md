@@ -519,6 +519,13 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Big-O Notation in One Picture](https://twitter.com/kamranahmedse/status/1235708842610212864)
 ![Big-O Notation in One Picture](bigO.jpeg)
 
+## Programação reativa
+- [Reactive Programming in Java: How, Why, and Is It Worth Doing? Multithreading](https://luxsocialmedia.medium.com/reactive-programming-in-java-how-why-and-is-it-worth-doing-multithreading-7bddaba4a55)
+- [Reactive Programming in Java: How, Why, and Is It Worth Doing? Examples of Parallel and Asynchronous Approaches](https://luxsocialmedia.medium.com/reactive-programming-in-java-how-why-and-is-it-worth-doing-5c9e34398785)
+- [Reactive Programming in Java: How, Why, and Is It Worth Doing? Blocking I/O](https://luxsocialmedia.medium.com/reactive-programming-in-java-how-why-and-is-it-worth-doing-blocking-i-o-d7045969bf9a)
+- [Reactive Programming in Java: How, Why, and Is It Worth Doing? Node.js](https://luxsocialmedia.medium.com/reactive-programming-in-java-how-why-and-is-it-worth-doing-node-js-5c826bef8cef)
+- [Reactive Programming in Java: How, Why, and Is It Worth Doing? Part II. Reactive approach](https://luxsocialmedia.medium.com/reactive-programming-in-java-how-why-and-is-it-worth-doing-part-ii-reactive-approach-242e923a4d26)
+
 ## Concorrência
 - [Lock-free multithreading with atomic operations](https://www.internalpointers.com/post/lock-free-multithreading-atomic-operations)
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
