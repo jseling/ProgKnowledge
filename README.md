@@ -82,6 +82,9 @@
 - [IFs considered harmful: How to eradicate 95% of all your bugs in one simple step: SLIDES](https://sddconf.com/brands/sdd/library/If_considered_Harmful_-_Jules_May_-_SDD2017.pdf)
 - [return first](https://schneide.blog/2021/01/18/return-first/)
 - [Don’t use raw loops](https://belaycpp.com/2021/06/22/dont-use-raw-loops/)
+- [Array Functions and the Rule of Least Power](https://jesseduffield.com/Array-Functions-And-Rule-Of-Least-Power/)
+- [Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
+- [Beginner's Guide To Abstraction](https://jesseduffield.com/Beginners-Guide-To-Abstraction/)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
@@ -92,6 +95,7 @@
 - [How to Find the Stinky Parts of Your Code (Part III)](https://hackernoon.com/how-to-find-the-stinky-parts-of-your-code-part-iii-t7h3zkv)
 - [Anti-patterns You Should Avoid in Your Code](https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/)
 - [Don't POOP - The Partial/Optional Object Population Anti-Pattern](https://scotthannen.org/blog/2021/04/19/partial-optional-object-population.html)
+- [Anti-pattern of the Day: Type Keys](https://jesseduffield.com/Type-Keys/)
 
 ## Conceitos e Algoritmos
 - [Bitwise operators and tricks!](https://www.hyfr.life/bitwise-operators-tricks/)
