@@ -42,6 +42,7 @@
 - [Multi-Paradigm Languages](https://www.oreilly.com/radar/multi-paradigm-languages/)
 - [Programming Language Evolution](https://elizarov.medium.com/programming-language-evolution-ab7d7d2b0d0b)
 - [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic01.html)
+- [Programming Language Fragility](https://cancel.fm/blog/2019-11/language-fragility/)
 
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
@@ -176,6 +177,7 @@
 - [3 steps to add tests on existing code when you have short deadlines](https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/)
 - [Avoid rewriting a legacy system from scratch, by strangling it](https://understandlegacycode.com/blog/avoid-rewriting-a-legacy-system-from-scratch-by-strangling-it/)
 - [Are functions that simply call another function a bad design choice?](https://understandlegacycode.com/blog/are-wrapper-functions-bad-design/)
+- [Refactoring Complicated Code](https://michael-l-davis.medium.com/refactoring-complicated-code-ad8b09a5b92b)
 
 ### TDD Humble Object
 Uma view serve apenas para mostrar informações ao usuário e/ou receber instruções deste. Input/Output, nada de processamento. Todo processamento/lógica que interage com a view deve ficar em classes separadas, a interação entre estes deve ser através de parâmetros em funções tipo "CarregarUsuarios(AUsuarioView)", assim esse objeto poderá ser testado através de um mock da view "CarregarUsuario(AUsuarioViewMock)". Essa view desacoplada do processamento/lógica é chamada de "Humble dialog" no padrão humble objeto. 
@@ -536,7 +538,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
 - [What went wrong with the libdispatch. A tale of caution for the future of concurrency.](https://tclementdev.com/posts/what_went_wrong_with_the_libdispatch.html)
 - [Concurrency vs. Parallelism](http://tutorials.jenkov.com/java-concurrency/concurrency-vs-parallelism.html)
-
+- [Synchronous Vs Asynchronous Programming](https://animeshgaitonde.medium.com/synchronous-vs-asynchronous-programming-4897070d640)
 
 ## Programação dinâmica
 - [Geeks - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
@@ -546,6 +548,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Dynamic Programming: An Introduction](https://dzone.com/articles/dynamic-programming)
 - [All You Need to Know About Dynamic Programming](https://hackernoon.com/all-you-need-to-know-about-dynamic-programming-0tj3e5l)
 - [Dynamic Programming Explained Simply, Fibonacci Series Insane Optimization.](https://aymanjabr.medium.com/dynamic-programming-explained-simply-fibonacci-series-insane-optimization-a04a1434b3c7)
+- [What is Dynamic Programming?](https://gursimar27.medium.com/what-is-dynamic-programming-228f37b9dc5a)
 
 ## Expressões Regulares
 - [Online Tester 101](https://regex101.com/)
