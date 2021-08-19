@@ -460,6 +460,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Understanding Parser Combinators](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
 - :star:[Compiling a Functional Language Using C++](https://danilafe.com/tags/compilers/)
 - [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/)
+- [OnParsers](https://lobste.rs/s/7it43u/on_parsers)
 
 ### JIT
 - [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time](https://carolchen.me/blog/jits-intro/)
