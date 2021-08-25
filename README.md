@@ -493,6 +493,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Token vs Session Authentication](https://www.codespot.org/token-vs-session-authentication/)
 - [How Not to Store Passwords](https://pboyd.io/posts/how-not-to-store-passwords/)
 
+## Cryptography
+- [Programmers Don’t Understand Hash Functions](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/)
+
 ## IDE
 - [Hoje irei apresentar o VS Code](https://medium.com/@programadriano/hoje-irei-apresentar-o-vs-code-visual-studio-code-para-quem-ainda-n%C3%A3o-teve-contato-com-ele-6a0d6bd3baec)
 
