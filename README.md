@@ -133,7 +133,7 @@
 - [An Overview of Networks - Graphs (Part 2)](https://medium.com/outco/an-overview-of-networks-8048753769da)
 - :star:[How to Build a Graph Data Structure - Graphs (Part 3)](https://medium.com/outco/how-to-build-a-graph-data-structure-d779d822f9b4)
 - [Binary Search Algorithm](https://medium.com/enjoy-algorithm/binary-search-fast-searching-on-sorted-array-1b80b5a65574)
-
+- [The Little Things: Comparing Floating Point Numbers](https://codingnest.com/the-little-things-comparing-floating-point-numbers/)
 
 ## TDD
 - [FALANDO DE TDD](https://www.concrete.com.br/2011/10/17/falando-de-tdd/)
