@@ -481,6 +481,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - https://www.englishexperts.com.br/numeros-em-ingles-por-extenso/
 - https://www.englishexperts.com.br/wp-content/themes/master/tools/numeros-extenso/numbers.js
 
+## Logging
+- [Logging in Python like a PRO](https://blog.guilatrova.dev/how-to-log-in-python-like-a-pro/)
+
 ## Paginação
 - [Thoughts on Arbitrary Pagination](https://blog.seantheprogrammer.com/thoughts-on-arbitrary-pagination)
 - [Reddit: Thoughts on Arbitrary Pagination](https://en.reddit.com/r/programming/comments/d62bk4/thoughts_on_arbitrary_pagination/)
