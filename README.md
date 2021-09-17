@@ -293,6 +293,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ### Design
 - :star:[Design Patterns for Humans](https://roadmap.sh/guides/design-patterns-for-humans)
 - :star:[What Is a Design Pattern?](https://dzone.com/articles/what-is-design-pattern)
+- [Design Patterns in Java](https://www.decipherzone.com/blog-detail/design-patterns-java)
+- [Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
 - [From design patterns to category theory](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
 - https://sourcemaking.com/design_patterns
 - https://stackoverflow.com/tags/design-patterns/info
