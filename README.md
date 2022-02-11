@@ -327,6 +327,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 #### Memento
 - [Memento Design Pattern](https://chamalwr.medium.com/memento-design-pattern-d9c5dad60d4e)
 
+#### Visitor
+- [Design Patterns VS Design Principles: Visitor](https://www.fluentcpp.com/2022/02/09/design-patterns-vs-design-principles-visitor/)
+
 ### Programação
 - [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
