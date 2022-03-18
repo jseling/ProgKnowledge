@@ -86,6 +86,7 @@
 - [Array Functions and the Rule of Least Power](https://jesseduffield.com/Array-Functions-And-Rule-Of-Least-Power/)
 - [Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 - [Beginner's Guide To Abstraction](https://jesseduffield.com/Beginners-Guide-To-Abstraction/)
+- [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
