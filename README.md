@@ -87,6 +87,7 @@
 - [Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 - [Beginner's Guide To Abstraction](https://jesseduffield.com/Beginners-Guide-To-Abstraction/)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
+- [What's in a Good Error Message?](https://www.morling.dev/blog/whats-in-a-good-error-message/)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
