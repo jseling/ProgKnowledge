@@ -411,6 +411,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Functors and Monads For People Who Have Read Too Many "Tutorials"](http://www.jerf.org/iri/post/2958)
 - [Functional programming and decoupling](https://stackoverflow.com/questions/68161072/functional-programming-and-decoupling)
 - [Cuddly, Octo-Palm Tree: Monads Series Tutorial](https://cuddly-octo-palm-tree.com/tags/monad-tutorial/)
+- [Programação funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
 
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
