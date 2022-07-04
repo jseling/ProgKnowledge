@@ -413,6 +413,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Cuddly, Octo-Palm Tree: Monads Series Tutorial](https://cuddly-octo-palm-tree.com/tags/monad-tutorial/)
 - [Programação funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
 
+"making the distinction between data, calculation, and action is an important skill to have as a programmer."
+- :star:[Functional programming is a universal programming paradigm](https://codepengu.in/universal_programming_paradigm/)
+
 ## Programação orientada a dados
 - [Yehonathan Sharvit: Data Oriented Programming](https://blog.klipse.tech/data-oriented-programming-book.html)
 
