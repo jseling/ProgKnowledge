@@ -43,6 +43,7 @@
 - [Programming Language Evolution](https://elizarov.medium.com/programming-language-evolution-ab7d7d2b0d0b)
 - [Exotic Programming Ideas](https://www.stephendiehl.com/posts/exotic01.html)
 - [Programming Language Fragility](https://cancel.fm/blog/2019-11/language-fragility/)
+- [The case against a C alternative](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 
 ## Boas práticas
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
