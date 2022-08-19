@@ -258,6 +258,8 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The 5 Principles of Dependency Injection](https://medium.com/better-programming/five-principles-of-dependency-injection-5bd0cca9cb04)
 - [The 3 Types of Dependency Injection](https://medium.com/better-programming/the-3-types-of-dependency-injection-141b40d2cebc)
 - [The 6 Benefits of Dependency Injection](https://medium.com/better-programming/the-6-benefits-of-dependency-injection-7802b207ec69)
+- [Demystifying Dependence, Part 1: The Nine Dependency Puzzles](https://www.pathsensitive.com/2022/08/demystifying-dependence-part-1-nine.html)
+- [Demystifying Dependence, Part 2: The Three Dimensions of Dependence](https://www.pathsensitive.com/2022/08/demystifying-dependence-part-2-three.html)
 
 ## Patterns
 
