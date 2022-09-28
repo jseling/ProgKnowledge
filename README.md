@@ -45,7 +45,7 @@
 - [Programming Language Fragility](https://cancel.fm/blog/2019-11/language-fragility/)
 - [The case against a C alternative](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 
-## Boas práticas
+## Boas práticas/Clean code
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
 - [Edge Case Poisoning](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 - [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
@@ -89,6 +89,7 @@
 - [Beginner's Guide To Abstraction](https://jesseduffield.com/Beginners-Guide-To-Abstraction/)
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
 - [What's in a Good Error Message?](https://www.morling.dev/blog/whats-in-a-good-error-message/)
+- [Rule of 30 – When is a Method, Class or Subsystem Too Big?](https://dzone.com/articles/rule-30-%E2%80%93-when-method-class-or)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
@@ -424,6 +425,10 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Programação orientada a atores
 - [Objects vs. Actors](https://hackernoon.com/objects-vs-actors-6l1g3ex4)
+
+## Programação reativa
+- [The Reactive Manifesto](https://www.reactivemanifesto.org/)
+- [Notes on Reactive Programming Part I: The Reactive Landscape](https://spring.io/blog/2016/06/07/notes-on-reactive-programming-part-i-the-reactive-landscape)
 
 ## Opiniões
 - [It's probably time to stop recommending Clean Code](https://qntm.org/clean)
