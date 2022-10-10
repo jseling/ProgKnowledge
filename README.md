@@ -229,6 +229,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The SOLID Principles of Object-Oriented Programming Explained in Plain English](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
 - [SOLID Coding in Python](https://towardsdatascience.com/solid-coding-in-python-1281392a6a94)
 - [Introduce Inheritance & Object Composition](https://medium.com/cp-massive-programming/inheritance-object-composition-84c9539eeaf9)
+- [SOLID Principles Sketches](https://itnext.io/solid-principles-sketches-a38865e771f0)
 
 ## IODA
 - [The IODA Architecture](http://geekswithblogs.net/theArchitectsNapkin/archive/2015/04/29/the-ioda-architecture.aspx)
