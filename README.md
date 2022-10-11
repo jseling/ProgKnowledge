@@ -356,6 +356,10 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [REDDIT: Alan Kay and Missing Messages](https://en.reddit.com/r/programming/comments/brly02/how_to_handle_unanswered_messages_a_follow_up_to/)
 - [The simple Math every developer should know](https://medium.com/@boltmick1/the-simple-math-every-developer-should-know-3f9b25446550)
 
+### Leet Code
+- [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)
+- [Hacks for being code complete](https://neveroddoreven-08.notion.site/Hacks-for-being-code-complete-cbba9852d05c4f068ddfdbc7f45823a0)
+
 ## Combinador de ponto fixo (Y Combinator)
 - [The Y combinator or how to implement recursion in a language that doesn't support it](https://deniskyashif.com/on-recursive-functions/)
 - [Combinador de ponto fixo - Wikipedia](https://pt.wikipedia.org/wiki/Combinador_de_ponto_fixo)
