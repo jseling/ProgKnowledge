@@ -314,6 +314,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Is It Time to Get Over Design Patterns?](https://medium.com/young-coder/is-it-time-to-get-over-design-patterns-8851864a6834)
 - [Why is a Canonical Data Model an Anti Pattern](https://medium.com/@teivah/why-is-a-canonical-data-model-an-anti-pattern-441b5c4cbff8)
 - [Design Patterns](https://medium.com/@dmitriykim/design-patterns-1634cb59fa65)
+- [Patterns.dev](https://www.patterns.dev/posts/)
 
 #### Singleton
 - [Design Patterns — A quick guide to Singleton pattern.](https://medium.com/@andreaspoyias/design-patterns-a-quick-guide-to-singleton-pattern-60732ed43956)
