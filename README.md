@@ -91,6 +91,7 @@
 - [What's in a Good Error Message?](https://www.morling.dev/blog/whats-in-a-good-error-message/)
 - [Rule of 30 – When is a Method, Class or Subsystem Too Big?](https://dzone.com/articles/rule-30-%E2%80%93-when-method-class-or)
 - [O princípio da inversão de dependência](https://dev.delivery/o-principio-da-inversao-de-dependencia/)
+- [No architecture is better than bad architecture](https://rogovoy.me/blog/no-architecture)
 
 ## AntiPatterns & Code Smells
 - [Anti Patterns Catalog](http://wiki.c2.com/?AntiPatternsCatalog)
