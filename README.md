@@ -210,6 +210,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 
 ## Event Driven
 - [Decouple Your Javascript Using Event Driven Programming](https://lukewood.dev/posts/refactor_bulletz/)
+- [Event Sourcing Versus Event-Driven Architecture](https://medium.com/geekculture/event-sourcing-versus-event-driven-architecture-753aa5a5d0f6)
 
 ## SOLID
 - [The Single Responsibility Principle Revisited](https://thevaluable.dev/single-responsibility-principle-revisited/)
@@ -425,6 +426,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [Cuddly, Octo-Palm Tree: Monads Series Tutorial](https://cuddly-octo-palm-tree.com/tags/monad-tutorial/)
 - [Programação funcional para iniciantes](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
 - [JAMES SINCLAIR: WHAT IF THE TEAM HATES MY FUNCTIONAL CODE?](https://jrsinclair.com/articles/2022/what-if-the-team-hates-my-functional-code/)
+- [Functional Programming Design Patterns](https://fsharpforfunandprofit.com/fppatterns/)
+- [Where are all the functional programming design patterns?](https://softwareengineering.stackexchange.com/questions/89273/where-are-all-the-functional-programming-design-patterns)
+- [Does functional programming replace GoF design patterns?](https://stackoverflow.com/questions/327955/does-functional-programming-replace-gof-design-patterns)
 
 "making the distinction between data, calculation, and action is an important skill to have as a programmer."
 - :star:[Functional programming is a universal programming paradigm](https://codepengu.in/universal_programming_paradigm/)
