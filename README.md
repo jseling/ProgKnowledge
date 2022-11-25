@@ -207,6 +207,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 ## DDD
 - [Domain-Driven Design Demystified](https://dzone.com/articles/domain-driven-design-demystified)
 - [How to organize your code?](https://kislayverma.com/programming/how-to-organize-your-code/)
+- [A gentle introduction to Domain Driven Design](https://medium.com/@Ancyr/a-gentle-introduction-to-domain-driven-design-dc7cc169b1d)
 
 ## Event Driven
 - [Decouple Your Javascript Using Event Driven Programming](https://lukewood.dev/posts/refactor_bulletz/)
