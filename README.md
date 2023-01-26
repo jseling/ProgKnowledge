@@ -484,6 +484,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [OData Documentation](http://www.odata.org/documentation/)
 
 ## Parsers
+- :book:[Crafting Interpreters](http://craftinginterpreters.com/contents.html)
 - https://johnidm.gitbooks.io/compiladores-para-humanos/content/part1/lexical-analysis.html
 - https://inf.ufes.br/~tavares/labcomp2000/introcomp.html
 - http://www.dcc.ufrj.br/~fabiom/comp20112/
