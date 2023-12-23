@@ -46,6 +46,7 @@
 - [The case against a C alternative](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 
 ## Boas práticas/Clean code
+- ⭐[Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) [Discussão Twitter](https://twitter.com/coproduto/status/1738212259648745560)
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
 - [Edge Case Poisoning](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 - [Why Senior Devs Write Dumb Code and How to Spot a Junior From A Mile Away](https://hackernoon.com/why-senior-devs-write-dumb-code-and-how-to-spot-a-junior-from-a-mile-away-27fa263b101a)
