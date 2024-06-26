@@ -267,6 +267,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The 6 Benefits of Dependency Injection](https://medium.com/better-programming/the-6-benefits-of-dependency-injection-7802b207ec69)
 - [Demystifying Dependence, Part 1: The Nine Dependency Puzzles](https://www.pathsensitive.com/2022/08/demystifying-dependence-part-1-nine.html)
 - [Demystifying Dependence, Part 2: The Three Dimensions of Dependence](https://www.pathsensitive.com/2022/08/demystifying-dependence-part-2-three.html)
+- [Yegor256: Dependency Injection Containers are Code Polluters](https://www.yegor256.com/2014/10/03/di-containers-are-evil.html)
 
 ## Patterns
 
