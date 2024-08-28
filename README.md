@@ -286,6 +286,7 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 - [The Troublesome Active Record Pattern](http://calpaterson.com/activerecord.html)
 - [Architecture characteristics](https://sergiuoltean.com/2020/06/26/architecture-characteristics/)
 - [Replacing Throwing Exceptions with Notification in Validations](https://martinfowler.com/articles/replaceThrowWithNotification.html)
+- [There can’t be only one- the Highlander problem](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 
 ### GUI
 - https://martinfowler.com/eaaDev/uiArchs.html
