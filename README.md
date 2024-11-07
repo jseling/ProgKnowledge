@@ -345,6 +345,9 @@ Uma view serve apenas para mostrar informações ao usuário e/ou receber instru
 #### Visitor
 - [Design Patterns VS Design Principles: Visitor](https://www.fluentcpp.com/2022/02/09/design-patterns-vs-design-principles-visitor/)
 
+#### Decorator
+- [Decorator Pattern - Dev.to - Sota](https://dev.to/sota_333ad4b72095606ab40c/decorator-pattern-3m7k)
+
 ### Programação
 - [Programming Paradigms](https://cs.lmu.edu/~ray/notes/paradigms/)
 - [The Only Coding Standard You’ll Ever Need](https://blog.gurock.com/only-coding-standard/)
