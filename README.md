@@ -185,6 +185,9 @@
 - [Avoid rewriting a legacy system from scratch, by strangling it](https://understandlegacycode.com/blog/avoid-rewriting-a-legacy-system-from-scratch-by-strangling-it/)
 - [Are functions that simply call another function a bad design choice?](https://understandlegacycode.com/blog/are-wrapper-functions-bad-design/)
 - [Refactoring Complicated Code](https://michael-l-davis.medium.com/refactoring-complicated-code-ad8b09a5b92b)
+- [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+![image](https://github.com/user-attachments/assets/097980f0-d00c-4607-a3e8-6001d16e1c5d)
+- [Joel is Wrong, and it costs you a fortune](https://medium.com/cyberark-engineering/joel-is-wrong-and-it-costs-you-a-fortune-105924be8f01)
 
 ### TDD Humble Object
 Uma view serve apenas para mostrar informações ao usuário e/ou receber instruções deste. Input/Output, nada de processamento. Todo processamento/lógica que interage com a view deve ficar em classes separadas, a interação entre estes deve ser através de parâmetros em funções tipo "CarregarUsuarios(AUsuarioView)", assim esse objeto poderá ser testado através de um mock da view "CarregarUsuario(AUsuarioViewMock)". Essa view desacoplada do processamento/lógica é chamada de "Humble dialog" no padrão humble objeto. 
