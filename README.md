@@ -45,6 +45,9 @@
 - [Programming Language Fragility](https://cancel.fm/blog/2019-11/language-fragility/)
 - [The case against a C alternative](https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative)
 
+### C++
+- [5 Things I Wish I Knew Before I Started Learning C++](https://dev.to/karan_prajapati_2004/5-things-i-wish-i-knew-before-i-started-learning-c-3kdi)
+
 ## Boas práticas/Clean code
 - ⭐[Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/) - [Discussão Twitter](https://twitter.com/coproduto/status/1738212259648745560)
 - [Special Cases Are a Code Smell](https://blog.conjur.org/special-cases-are-a-code-smell/)
